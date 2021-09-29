@@ -52,19 +52,23 @@ article {
 }
 .description {
     font-style: italic;
-    margin: 1em;
+    margin:1em;
     font-family: 'Poppins', sans-serif;
+}
+.div-bouton-up{
+    display:flex;
+    justify-content:flex-end;
 }
 
 .bouton-up{
-    position: fixed;
+    position:fixed;
+    bottom:0;
     width: 4em;
-    height: 4em;
-    border-radius: 50% 50% 50% 50%;
-    background-color: lightpink;
-    margin: 10px;
+    height:4em;
+    border-radius:50% 50% 50% 50%;
+    background-color: #245DA7;
+    margin:5px;
 }
-.div-bouton-up{
-    display: flex;
-    justify-content: flex-end;
+#bouton{
+    width:100%;
 }

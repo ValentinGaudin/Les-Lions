@@ -38,5 +38,6 @@
     </article>
 
 </section>
+<section class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="Images/fleche-bouton-up.png"></a></div></section>
 </body>
 </html>
