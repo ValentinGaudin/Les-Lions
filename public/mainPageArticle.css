@@ -1,7 +1,12 @@
+<<<<<<< HEAD:restaurants.css
+body {
+    height:100%;
+=======
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+>>>>>>> 0bcd7aac84456cad22811ca9d3e4bf517412d76c:public/mainPageArticle.css
 }
 div a {
     text-decoration: none;
@@ -52,20 +57,24 @@ h2{
         height:100%;
     }
 }
+.description {
+    font-style: italic;
+    margin:1em;
+    font-family: 'Poppins', sans-serif;
+}
 .div-bouton-up{
     display:flex;
     justify-content:flex-end;
 }
 .bouton-up{
     position:fixed;
-    width:4em;
+    bottom:0;
+    width: 4em;
     height:4em;
     border-radius:50% 50% 50% 50%;
-    background-color: lightpink;
-    margin:10px;
+    background-color: #245DA7;
+    margin:5px;
 }
-.description {
-    font-style: italic;
-    margin:1em;
-    font-family: 'Poppins', sans-serif;
+#bouton{
+    width:100%;
 }
