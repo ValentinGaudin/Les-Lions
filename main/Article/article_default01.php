@@ -1,10 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
 
-<?php include ("");?>
+<?php include("../main/header.php"); ?>
 
 <!--  creation d'une div pour le bandeau-->
 <div class= "bandeau">
 <h1>Le comptoir de l'Est</h1>
-<img src="https://www.collinet-sieges.fr/img/news/image/201703-16-brasserie-bocuse-1.jpg"/>
+<img src=""/>
 </div>
 
 <!--  creation d'une div pour l'article-->
@@ -16,6 +18,7 @@
 <!--  creation d'une div pour le bandeau-->
 
 <div class= "notes">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/red-star-1-logo-png-transparent.png"/>
+<img src=""/>
 
 </div>
+</html>

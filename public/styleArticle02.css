@@ -3,6 +3,9 @@
     padding: 0px;
     box-sizing: border-box;
 }
+body {
+    font-family: 'Poppins', sans-serif;
+}
 .image_article  {
     display: inline-block;
     position: relative;

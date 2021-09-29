@@ -35,13 +35,13 @@
                     <a href="/public/index.php">Acceuil</a>
                 </li>
                 <li>
-                    <a href="/Article/main_page_article.php">Restaurants</a>
+                    <a href="/main/Article/main_page_article.php">Restaurants</a>
                 </li>
                 <li>
                     <a href="#">Bars</a>
                 </li>
                 <li>
-                    <a href="/Article/main_page_article.php">Sports</a>
+                    <a href="/main/Article/main_page_article.php">Sports</a>
                 </li>
                 <li>
                     <a href="#">Culture</a>
