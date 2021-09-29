@@ -1,11 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
-<head>
-    <title>Restaurants - Les Lions</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width"/>
-    <link href="restaurants.css" rel="stylesheet">
-</head>
+
 <body>
 <h1>Restaurants à Lyon</h1>
 <section class="section-article">

@@ -1,5 +1,7 @@
-body {
-    height:auto;
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
 }
 div a {
     text-decoration: none;
