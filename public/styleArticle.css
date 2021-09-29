@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 
-.article_details {
+/*.article_details {
     display: flex;
     flex-direction: column;
 }
-
+*/
 .article_image img {
     position: absolute;
     top: 0;
@@ -19,7 +19,7 @@
 }
 
 .article_image  {
-    /*display: inline-block;*/
+    
     position: relative;
     overflow: hidden;
     text-align: center;
@@ -36,6 +36,22 @@
     text-align: center;
 }
 
-.article_notation {
+.article_notation{
     text-align: center;
+    background-color: rgb(196,196,196);
+    width: 75%;
+    height: 200px;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    
+
+}
+.article_notation img{
+    margin-top: 20px;
+    width:50px;   
+    height:50px;
 }

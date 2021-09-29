@@ -6,9 +6,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>The Lions</title>
-        <link rel="stylesheet" type="text/css" href="/public/indexStyle.css">
         <link rel="stylesheet" type="text/css" href="/public/header.css">
-        <link rel="stylesheet" type="text/css" href="/public/mainPageArticle.css">
         <link rel="stylesheet" type="text/css" href="/public/styleArticle.css">
         
         <link rel="preconnect" href="https://fonts.googleapis.com">
