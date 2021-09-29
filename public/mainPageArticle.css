@@ -1,5 +1,12 @@
+<<<<<<< HEAD:restaurants.css
 body {
     height:100%;
+=======
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+>>>>>>> 0bcd7aac84456cad22811ca9d3e4bf517412d76c:public/mainPageArticle.css
 }
 div a {
     text-decoration: none;

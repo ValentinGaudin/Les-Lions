@@ -1,8 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
 .image_article  {
     display: inline-block;
     position: relative;
 }
-
 .image_article  .text_image_article {
     background: rgba(0, 0, 0, 0.8);
     z-index: 1;
