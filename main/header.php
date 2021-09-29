@@ -9,9 +9,8 @@
         <link rel="stylesheet" type="text/css" href="/public/indexStyle.css">
         <link rel="stylesheet" type="text/css" href="/public/header.css">
         <link rel="stylesheet" type="text/css" href="/public/mainPageArticle.css">
-        <link rel="stylesheet" type="text/css" href="/public/styleArticle01.css">
-        <link rel="stylesheet" type="text/css" href="/public/styleArticle02">
-
+        <link rel="stylesheet" type="text/css" href="/public/styleArticle.css">
+        
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100&display=swap" rel="stylesheet">
@@ -55,5 +54,5 @@
                 
         </nav>
     </div>
-    <script src="script/scripts.js"></script>
+    <script src="/script/script.js"></script>
 </header>
