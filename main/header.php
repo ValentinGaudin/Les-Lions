@@ -8,9 +8,6 @@
         <title>The Lions</title>
         
         <link rel="stylesheet" type="text/css" href="/public/header.css">
-        <link rel="stylesheet" type="text/css" href="/public/styleArticle.css">
-        <link rel="stylesheet" type="text/css" href="/public/indexStyle.css">
-        <link rel="stylesheet" type="text/css" href="/public/styleArticle.css">
         
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
