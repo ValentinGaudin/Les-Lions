@@ -4,48 +4,31 @@
     box-sizing: border-box;
 }
 
-/*.article_details {
+.article_titre  {
     display: flex;
-    flex-direction: column;
-}
-*/
-.article_image img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    max-width: 100%;
-    height: auto;
+    background-image:url("../../images/Parcdelatetedor01.jpg");
+    background-size : contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 800px;
 }
 
-.article_image  {
-    
-    position: relative;
-    overflow: hidden;
-    text-align: center;
-    width: 100%;
-    height: 400px;
-}
 h1 {
     color: white;
     font-weight: bolder;
     text-shadow: 1px 1px 5px black;
 }
 
-.article_image h1 {
-    position: relative;
-    background-position: center;
-    z-index: 2;
-}
-
 .article_contenu {
+    padding: 50px;
     text-align: center;
 }
 
 .article_notation{
     text-align: center;
     background-color: rgb(196,196,196);
-    width: 75%;
-    height: 200px;
+    width: 400px;
+    height: 150px;
     margin:auto;
     display: flex;
     flex-direction: column;
@@ -77,3 +60,4 @@ h1 {
 #bouton{
     width: 100%;
 }
+
