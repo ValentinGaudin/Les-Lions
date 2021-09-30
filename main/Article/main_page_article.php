@@ -5,7 +5,7 @@
 
 <body>
 
-<h1 class="TitrePrincipal">Restaurants à Lyon</h1>
+<h1 class="titrePrincipal">Restaurants à Lyon</h1>
 
 <section class="sectionArticles">
 

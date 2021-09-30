@@ -20,8 +20,6 @@
                                 </p>
                         </article>
                 
-
-                
                         <article class="parctetedor" >
                         <h2 class="title" >Le parc de la tête d'or</h2>
                                 <a href="#"> <img class="imageArticle" src="" alt="Le parc de la tête d'or" ></a>
