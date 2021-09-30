@@ -6,17 +6,20 @@
 
 .article_titre  {
     display: flex;
+    justify-content: center;
     background-image:url("../../images/Parcdelatetedor01.jpg");
-    background-size : contain;
-    background-repeat: no-repeat;
+    background-size : cover;
+    background-position: center;
     width: 100%;
-    min-height: 800px;
-}
-
-h1 {
     color: white;
     font-weight: bolder;
     text-shadow: 1px 1px 5px black;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    padding: 150px;
 }
 
 .article_contenu {
@@ -27,7 +30,7 @@ h1 {
 .article_notation{
     text-align: center;
     background-color: rgb(196,196,196);
-    width: 400px;
+    width: 80%;
     height: 150px;
     margin:auto;
     display: flex;
