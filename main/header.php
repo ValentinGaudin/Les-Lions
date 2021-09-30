@@ -29,7 +29,7 @@
             </div>
             <ul class="nav-links">
                 <li>
-                    <a href="/public/index.php">Acceuil</a>
+                    <a href="/public/index.php">Accueil</a>
                 </li>
                 <li>
                     <a href="/main/Article/main_page_article.php">Restaurants</a>
