@@ -9,7 +9,6 @@
         
         <link rel="stylesheet" type="text/css" href="/public/header.css">
         <link rel="stylesheet" type="text/css" href="/public/styleArticle.css">
-        <link rel="stylesheet" type="text/css" href="/public/mainPageArticle.css">
         <link rel="stylesheet" type="text/css" href="/public/indexStyle.css">
         <link rel="stylesheet" type="text/css" href="/public/styleArticle.css">
         
