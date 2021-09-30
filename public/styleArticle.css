@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-
 .article_titre  {
     display: flex;
     background-image:url("../../images/Parcdelatetedor01.jpg");
@@ -12,6 +11,12 @@
     background-repeat: no-repeat;
     width: 100%;
     min-height: 800px;
+}
+
+h1 {
+    color: white;
+    font-weight: bolder;
+    text-shadow: 1px 1px 5px black;
 }
 
 .article_contenu {
@@ -29,7 +34,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-
+    border-radius:10px;
     
 
 }
@@ -38,3 +43,21 @@
     width:50px;   
     height:50px;
 }
+.div-bouton-up{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bouton-up{
+    position: fixed;
+    bottom: 0;
+    width: 4em;
+    height: 4em;
+    border-radius: 50% 50% 50% 50%;
+    background-color: #245DA7;
+    margin: 5px;
+}
+#bouton{
+    width: 100%;
+}
+
