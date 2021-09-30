@@ -75,3 +75,19 @@ article {
         overflow: scroll;
     }
 }
+.div-bouton-up{
+    display: flex;
+    justify-content: flex-end;
+}
+.bouton-up{
+    position: fixed;
+    bottom: 0;
+    width: 4em;
+    height: 4em;
+    border-radius: 50% 50% 50% 50%;
+    background-color: #245DA7;
+    margin: 5px;
+}
+#bouton{
+    width: 100%;
+}

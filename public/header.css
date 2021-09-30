@@ -8,7 +8,7 @@ nav{
     justify-content: space-around;
     align-items: center;
     flex-direction: row-reverse;
-    background-color: black;
+    background-color:#245DA7;
     color: white;
     font-family: 'Poppins', sans-serif;
 }
@@ -58,7 +58,6 @@ nav{
 
 @media screen and (max-width: 768px) {
     body {
-        background-color: lightblue;
         overflow-x: hidden; 
     }
     .nav-links{
@@ -67,8 +66,8 @@ nav{
         left: 0px;
         top: 75px;
         height: 400px;
-        background-color: white;
-        color: black;
+        background-color: #245DA7;
+        color: white;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -80,10 +79,10 @@ nav{
     }
     .nav-links li{
         opacity: 100;
-        color: black;
+        color: white;
     }
     .nav-links a{
-        color: black;
+        color: white;
     }
     .burger {
         display: block;

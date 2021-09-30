@@ -21,7 +21,7 @@
 
 <body>
 
-<h1 class="titrePrincipal">Restaurants à Lyon</h1>
+<h1>Restaurants à Lyon</h1>
 
 <section class="sectionArticles">
 
@@ -54,6 +54,6 @@
     </article>
 
 </section>
-<section class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="Images/fleche-bouton-up.png"></a></div></section>
+<section class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></section>
 </body>
 </html>
