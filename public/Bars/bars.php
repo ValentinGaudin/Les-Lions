@@ -51,7 +51,7 @@
             <img class="imageArticle" src=>
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Une étoile</p>
-    </article>
+g    </article>
 
 </section>
 <section class="div-bouton-up bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></section>
