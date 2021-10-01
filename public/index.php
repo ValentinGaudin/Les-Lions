@@ -28,7 +28,7 @@
 
         <section class="lastArticle container" >
                 
-                        <article class="bocuse" >
+                        <article class="bocuse positioningImage" >
                         <h2>Paul Bocuse</h2>
                                 <a href="/Restaurants/Articles/article_default.php"> <img class="imageArticle"></a>
                                 <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
@@ -36,7 +36,7 @@
                                 </p>
                         </article>
                 
-                        <article class="parcTeteDor" >
+                        <article class="parcTeteDor positioningImage" >
                         <h2>Le parc de la tête d'or</h2>
                                 <a href=""> <img class="imageArticle"></a>
                                 <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
@@ -45,7 +45,7 @@
                         </article>
                 
                 
-                        <article class="museum" >
+                        <article class="museum positioningImage" >
                         <h2>Le musée de confluence</h2>
                                 <a href="#"> <img class="imageArticle"></a>
                                 <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
@@ -54,7 +54,7 @@
                         </article>
                         
                 
-                        <article class="bar" > 
+                        <article class="bar positioningImage" > 
                         <h2>Le soda Bar</h2>
                                 <a href="#"> <img class="imageArticle"></a>
                                 <p class="description" > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
@@ -63,7 +63,7 @@
                         </article>
                 
                 
-                        <article class="placeBellecour" >
+                        <article class="placeBellecour positioningImage" >
                         <h2>Place Bellecour</h2>
                                 <a href="#"> <img class="imageArticle"></a>
                                 <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
@@ -71,7 +71,7 @@
                                 </p>
                         </article>
 
-                        <article class="fourviere" >
+                        <article class="fourviere positioningImage" >
                         <h2>Fourvière</h2>
                                 <a href="#"> <img class="imageArticle"></a>
                                 <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?

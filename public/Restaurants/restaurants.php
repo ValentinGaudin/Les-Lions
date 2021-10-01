@@ -23,29 +23,30 @@
 
 <section class="sectionArticles">
 
-    <article>
-    <a href="/Restaurants/Articles/article_default.php"><h2>Paul Bocuse</h2>
-             </a>
+
+    <article class="positioningImage">
+    <a href="/Restaurants/Articles/article_default.php"><h2>Paul Bocuse</h2></a>
+        
             <img class="imageArticle" src= "">
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Une étoile</p>
     </article>
 
-    <article>
+    <article class="positioningImage">
         <h2>Georges Blanc</h2>
             <img class="imageArticle" src=>
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Une étoile</p>
     </article>
 
-    <article>
+    <article class="positioningImage">
         <h2>Jean-Paul Rouve</h2>
             <img class="imageArticle" src=>
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Une étoile</p>
     </article>
 
-    <article>
+    <article class="positioningImage">
         <h2>Michel Drucker</h2>
             <img class="imageArticle" src=>
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>

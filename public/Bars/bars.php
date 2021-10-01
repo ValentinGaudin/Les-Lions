@@ -25,28 +25,28 @@
 
 <section class="sectionArticles">
 
-    <article>
+    <article class="positioningImage">
         <h2>Soda Bar</h2>
             <img class="imageArticle" src=>
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Une étoile</p>
     </article>
 
-    <article>
+    <article class="positioningImage">
         <h2>Place des Terreaux</h2>
             <img class="imageArticle" src=>
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Une étoile</p>
     </article>
 
-    <article>
+    <article class="positioningImage">
         <h2>La source</h2>
             <img class="imageArticle" src=>
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Une étoile</p>
     </article>
 
-    <article>
+    <article class="positioningImage">
         <h2>Brasserie Georges</h2>
             <img class="imageArticle" src=>
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
