@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-        <link rel="stylesheet" type="text/css" href="/header.css">
-</head>
-
-
 <header>
     <div class="banniere">
         <section class="bann">
@@ -44,4 +36,3 @@
     </div>
     <script src="/script/script.js"></script>
 </header>
-</html>
