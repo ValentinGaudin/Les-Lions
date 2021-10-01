@@ -6,6 +6,15 @@
 body {
     overflow-x: hidden; 
 }
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    background-color:#245DA7;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
 .logo {
     color: white;
     text-transform: uppercase;
@@ -27,15 +36,6 @@ body {
     height: 40px auto;
     padding: 5px;
 }
-nav{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-direction: row-reverse;
-    background-color:#245DA7;
-    color: white;
-    font-family: 'Poppins', sans-serif;
-}
 .nav-links {
     display: flex;
     justify-content: space-around;
@@ -55,6 +55,9 @@ nav{
 .burger {
     display: none;
     cursor: pointer;
+}
+.nav-active{
+    transform: translateX(0%);
 }
 @media screen and (max-width: 768px) {
 
@@ -90,7 +93,4 @@ nav{
     .burger {
         display: block;
     }
-}
-.nav-active{
-    transform: translateX(0%);
 }
