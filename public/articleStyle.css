@@ -3,6 +3,13 @@
     padding: 0px;
     box-sizing: border-box;
 }
+h1 {
+    text-align: center;
+    font-size: 3em;
+    font-weight: normal;
+    padding-top: 10px;
+    letter-spacing: 5px;
+}
 .article_titre  {
     display: flex;
     justify-content: center;
@@ -13,13 +20,6 @@
     color: white;
     font-weight: bolder;
     text-shadow: 1px 1px 5px black;
-}
-h1 {
-    text-align: center;
-    font-size: 3em;
-    font-weight: normal;
-    padding-top: 10px;
-    letter-spacing: 5px;
 }
 .article_contenu {
     padding: 50px;

@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+
         <title>The Lions</title>
 
         <link rel="stylesheet" type="text/css" href="/articlePageStyle.css"> 
@@ -27,28 +28,28 @@
 <section class="sectionArticles">
 
     <article class="positioningImage">
-        <h2>Paul Bocuse</h2>
+        <h2>Parc de la tête d'or</h2>
             <img class="imageArticle" src=>
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Une étoile</p>
     </article>
 
     <article class="positioningImage">
-        <h2>Georges Blanc</h2>
+        <h2>Groupama Stadium</h2>
             <img class="imageArticle" src=>
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Une étoile</p>
     </article>
 
     <article class="positioningImage"> 
-        <h2>Jean-Paul Rouve</h2>
+        <h2>Quai du rhône</h2>
             <img class="imageArticle" src=>
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Une étoile</p>
     </article>
 
     <article class="positioningImage">
-        <h2>Michel Drucker</h2>
+        <h2></h2>
             <img class="imageArticle" src=>
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>note</p>

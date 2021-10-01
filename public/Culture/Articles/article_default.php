@@ -4,13 +4,20 @@
 <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<<<<<<< HEAD
 
         <meta name="viewport" content="width=device-width, initial-scale=1">
+=======
+        <meta name="viewport" content="width=device-width, initial-scale=1">``
+>>>>>>> main
 
         <title>The Lions</title>
 
         <link rel="stylesheet" type="text/css" href="/articleStyle.css">
+<<<<<<< HEAD
         <link rel="stylesheet" type="text/css" href="/articlePageStyle.css"> 
+=======
+>>>>>>> main
         <link rel="stylesheet" type="text/css" href="/header.css">
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,10 +30,17 @@
 </head>
 
 <body>
+<<<<<<< HEAD
 <!-- Barre de navgiation & bannière -->
 <?php include ("../../header.php");?>
 
 <div class='article_details'>
+=======
+
+<?php include ("../../header.php");?>
+
+    <div class='article_details'>
+>>>>>>> main
 
         <h1 class="article_titre">Titre de l'article</h1>
 
