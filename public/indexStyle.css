@@ -30,10 +30,12 @@ h2{
     font-family: 'Poppins', sans-serif;
     font-weight: 900;
     text-transform: uppercase;
-    color: white;
     padding-top: 10%;
-    text-decoration-line: underline white;
     text-shadow: 1px 1px 5px black;
+}
+h2 a {
+    text-decoration: none;
+    color: white;
 }
 .container {
     width: 100%;

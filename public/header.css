@@ -56,9 +56,6 @@ nav{
     display: none;
     cursor: pointer;
 }
-.nav-active{
-    transform: translateX(0%);
-}
 @media screen and (max-width: 768px) {
 
     .nav-links{
@@ -93,4 +90,7 @@ nav{
     .burger {
         display: block;
     }
+}
+.nav-active{
+    transform: translateX(0%);
 }
