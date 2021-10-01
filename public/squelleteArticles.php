@@ -16,10 +16,8 @@
         ?>
 </head>
 
-
-
 <body>
-<?php include ("../header.php");?>
+<?php include ("header.php");?>
 <div class='article_details'>
 
         <h1 class="article_titre">Titre de l'article</h1>

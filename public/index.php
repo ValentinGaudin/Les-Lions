@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>The Lions</title>
 
-        <link rel="stylesheet" type="text/css" href="/public/indexStyle.css">
+        <link rel="stylesheet" type="text/css" href="indexStyle.css">
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,11 +20,9 @@
 <body>
         
         <!-- Contiendras la bannière de présentation et la nav bar!-->
-        <?php include("../main/header.php"); ?>
+        <?php include("header.php"); ?>
         
-
         <!-- Article dans l'index -->
-
 
         <h1> Derniers ajout des Lions.</h1>
 
@@ -87,7 +85,7 @@
         
         <script src="/script/script.js"></script>
 
-        <section class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></section>
+        <section class="div-bouton-up bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></section>
 </body>
 
 </html>

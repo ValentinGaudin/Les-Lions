@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-        <link rel="stylesheet" type="text/css" href="/public/header.css">
+        <link rel="stylesheet" type="text/css" href="header.css">
 </head>
 
 
@@ -18,19 +18,19 @@
             </div>
             <ul class="nav-links">
                 <li>
-                    <a href="/public/index.php">Accueil</a>
+                    <a href="index.php">Accueil</a>
                 </li>
                 <li>
-                    <a href="/main/Article/main_page_article.php">Restaurants</a>
+                    <a href="Restaurants/restaurants.php">Restaurants</a>
                 </li>
                 <li>
-                    <a href="#">Bars</a>
+                    <a href="Bars/bars.php">Bars</a>
                 </li>
                 <li>
-                    <a href="/main/Article/main_page_article.php">Sports</a>
+                    <a href="Sports/sports.php">Sports</a>
                 </li>
                 <li>
-                    <a href="#">Culture</a>
+                    <a href="Culture.culture.php">Culture</a>
                 </li>
             </ul>
             <div class="burger">
@@ -41,6 +41,6 @@
                 
         </nav>
     </div>
-    <script src="/script/script.js"></script>
+    <script src="script/script.js"></script>
 </header>
 </html>
