@@ -10,7 +10,5 @@ const navBarSlide = () => {
         nav.classList.toggle('nav-active');
         
     });
-
-    
     }
 navBarSlide();

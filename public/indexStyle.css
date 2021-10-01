@@ -16,14 +16,9 @@ h1 {
 .container {
     width: 100%;
 }
-.lastArticle {
-    display: flex;
-    justify-content: center; 
-    align-items: center;
-    flex-flow: row wrap;
-    height: 1600px;
-}
 article {
+    width: 80%;
+    height: 40%;
     display: block;
     overflow: scroll;
     border-radius: 10px;
@@ -31,8 +26,15 @@ article {
     margin: 1em;
     text-align: center;
     box-shadow: 0px 0px 15px grey;
-    width: 40%;
-    height: 30%;
+}
+.lastArticle {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    height: 1800px;
+    width: 100%;
+    overflow: scroll;
 }
 .positioningImage {
     background-position: 50% 8%;
@@ -66,10 +68,10 @@ h2{
     font-family: 'Poppins', sans-serif;
     font-weight: 900;
     text-transform: uppercase;
-    color: black;
+    color: white;
     padding-top: 10%;
-    text-decoration-line: underline white;
-    text-shadow: 4px 4px white;
+    text-shadow: 4px 4px black;
+    width: auto;
 }
 .imageArticle {
     width:70%;
@@ -80,19 +82,24 @@ h2{
     padding-top: 37%;
 }
 
-@media screen and (max-width:1230px){
-    article {
-        width: 80%;
-        height: 40%;
-    }
+@media screen and (min-width:1230px){
     .lastArticle {
         display: flex;
-        flex-flow: column;
-        justify-content: center;
+        justify-content: center; 
         align-items: center;
-        height: 1800px;
-        width: 100%;
+        flex-flow: row wrap;
+        height: 1600px;
+    }
+    article {
+        display: block;
         overflow: scroll;
+        border-radius: 10px;
+        background-color: white;
+        margin: 1em;
+        text-align: center;
+        box-shadow: 0px 0px 15px grey;
+        width: 40%;
+        height: 30%;
     }
 }
 .div-bouton-up{
