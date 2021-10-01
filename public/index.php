@@ -25,6 +25,7 @@
 
         <!-- Article dans l'index -->
 
+
         <h1> Derniers ajout des Lions.</h1>
 
         <section class="lastArticle container" >
@@ -86,7 +87,7 @@
         
         <script src="/script/script.js"></script>
 
-
+        <section class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></section>
 </body>
 
 </html>

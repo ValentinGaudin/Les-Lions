@@ -1,9 +1,11 @@
 <!DOCTYPE html>
+
 <html lang="en">
 
 <head>
         <link rel="stylesheet" type="text/css" href="/public/header.css">
 </head>
+
 
 <header>
     <div class="banniere">
@@ -16,7 +18,7 @@
             </div>
             <ul class="nav-links">
                 <li>
-                    <a href="/public/index.php">Acceuil</a>
+                    <a href="/public/index.php">Accueil</a>
                 </li>
                 <li>
                     <a href="/main/Article/main_page_article.php">Restaurants</a>
@@ -41,3 +43,4 @@
     </div>
     <script src="/script/script.js"></script>
 </header>
+</html>

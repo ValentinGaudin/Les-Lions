@@ -5,9 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>The Lions</title>
-
         <link rel="stylesheet" type="text/css" href="/public/mainPageArticle.css"> 
-        
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100&display=swap" rel="stylesheet">
@@ -17,11 +15,11 @@
         ?>
 </head>
 
-<?php include("../header.php"); ?>
+ <?php include("../header.php"); ?>
 
 <body>
 
-<h1 class="titrePrincipal">Restaurants à Lyon</h1>
+<h1>Restaurants à Lyon</h1>
 
 <section class="sectionArticles">
 
@@ -54,6 +52,6 @@
     </article>
 
 </section>
-<section class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="Images/fleche-bouton-up.png"></a></div></section>
+<section class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></section>
 </body>
 </html>
