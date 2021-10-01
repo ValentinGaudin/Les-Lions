@@ -13,9 +13,6 @@ h1 {
     padding-top: 10px;
     letter-spacing: 5px;
 }
-.container {
-    width: 100%;
-}
 article {
     width: 80%;
     height: 40%;
@@ -27,6 +24,21 @@ article {
     text-align: center;
     box-shadow: 0px 0px 15px grey;
 }
+h2{
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: white;
+    padding-top: 10%;
+    text-decoration-line: underline white;
+    text-shadow: 1px 1px 5px black;
+}
+.container {
+    width: 100%;
+}
+
 .lastArticle {
     display: flex;
     flex-flow: column;
@@ -61,17 +73,7 @@ article {
 .fourviere {
     background-image: url("/images/hoteldieu.jpg");
 }
-h2{
-    text-align: center;
-    font-size: 4em;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 900;
-    text-transform: uppercase;
-    color: white;
-    padding-top: 10%;
-    text-decoration-line: underline white;
-    text-shadow: 1px 1px 5px black;
-}
+
 .imageArticle {
     width:70%;
 }
@@ -79,27 +81,6 @@ h2{
     font-style: italic;
     margin: 1em;
     padding-top: 37%;
-}
-
-@media screen and (min-width:1230px){
-    .lastArticle {
-        display: flex;
-        justify-content: center; 
-        align-items: center;
-        flex-flow: row wrap;
-        height: 1600px;
-    }
-    article {
-        display: block;
-        overflow: scroll;
-        border-radius: 10px;
-        background-color: white;
-        margin: 1em;
-        text-align: center;
-        box-shadow: 0px 0px 15px grey;
-        width: 40%;
-        height: 30%;
-    }
 }
 .div-bouton-up{
     display: flex;
@@ -117,3 +98,26 @@ h2{
 #bouton{
     width: 100%;
 }
+
+@media screen and (min-width:1230px){
+    article {
+        display: block;
+        overflow: scroll;
+        border-radius: 10px;
+        background-color: white;
+        margin: 1em;
+        text-align: center;
+        box-shadow: 0px 0px 15px grey;
+        width: 40%;
+        height: 30%;
+    }
+    .lastArticle {
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+        flex-flow: row wrap;
+        height: 1600px;
+    }
+   
+}
+
