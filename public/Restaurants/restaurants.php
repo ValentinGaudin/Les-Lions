@@ -27,7 +27,7 @@
 
 
     <article class="positioningImage">
-    <a href="/Restaurants/Articles/article_default.php"><h2>Paul Bocuse</h2></a>
+   <h2><a href="/Restaurants/Articles/article_default.php">Paul Bocuse</a></h2>
         
             <img class="imageArticle" src= "">
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>

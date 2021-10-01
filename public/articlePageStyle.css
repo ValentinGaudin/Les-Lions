@@ -13,16 +13,21 @@ h1 {
     padding-top: 10px;
     letter-spacing: 5px;
 }
-.sectionArticles {
-    display: flex;
-    justify-content: center; 
-    align-items: center;
-    flex-flow: row wrap;
-    height: 1600px;
+h2 { 
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    padding-top: 10%;
+    text-shadow: 1px 1px 5px black;
+}
+h2 a {
+    text-decoration: none;
+    color: white;
 }
 article {
     display: block;
-    overflow: scroll;
     border-radius: 10px;
     background-color: white;
     margin: 1em;
@@ -31,6 +36,13 @@ article {
     width: 40%;
     height: 30%;
 }
+.sectionArticles {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-flow: row wrap;
+    height: 1600px;
+}
 .positioningImage {
     background-position: 50% 8%;
     background-size: 500px, 350px, auto;
@@ -38,31 +50,8 @@ article {
     background-attachment: local;
     align-items: center;
 }
-h2{
-    text-align: center;
-    font-size: 4em;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 900;
-    text-transform: uppercase;
-    color: white;
-    padding-top: 10%;
-    text-decoration-line: underline white;
-    text-shadow: 1px 1px 5px black;
-}
 .imageArticle {
     width: 70%;
-}
-@media screen and (max-width:1230px){
-    article {
-        width: 35%;
-        height: 20%;
-    }
-    .sectionArticles {
-        display: flex;
-        flex-flow: row wrap;
-        width: 100%;
-        height: 100%;
-    }
 }
 .description {
     font-style: italic;
@@ -73,7 +62,6 @@ h2{
     display: flex;
     justify-content: flex-end;
 }
-
 .bouton-up{
     position: fixed;
     bottom: 0;
@@ -85,4 +73,18 @@ h2{
 }
 #bouton{
     width: 100%;
+}
+@media screen and (max-width:1230px){
+    article {
+        width: 35%;
+        height: 20%;
+        text-decoration: none;
+    }
+    .sectionArticles {
+        display: flex;
+        flex-flow: row wrap;
+        width: 100%;
+        height: 100%;
+        text-decoration: none;
+    }
 }
