@@ -83,8 +83,7 @@
         </section>
 
         <!-- Contiendras les informations de production et le chatbot!-->
-        
-        <script src="/script/script.js"></script>
+
 
         <div class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></div>
 </body>

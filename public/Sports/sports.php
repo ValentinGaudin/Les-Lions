@@ -6,7 +6,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>The Lions</title>
-        <link rel="stylesheet" type="text/css" href="../articlePageStyle.css"> 
+
+        <link rel="stylesheet" type="text/css" href="/articlePageStyle.css"> 
         <link rel="stylesheet" type="text/css" href="/header.css">
         
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,11 +18,12 @@
         date_default_timezone_set('Etc/GMT+11');
         ?>
 </head>
+
 <body>
+    <!-- Barre de navgiation & bannière -->
+        <?php include("../header.php"); ?>
 
-<?php include("../header.php"); ?>
-
-            <h1>Les plus beaux spots de sport à Lyon !</h1>
+        <h1>Les plus beaux spots de sport à Lyon !</h1>
 
 <section class="sectionArticles">
 

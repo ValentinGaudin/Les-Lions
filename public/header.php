@@ -34,5 +34,5 @@
                 
         </nav>
     </div>
-    <script src="/script/script.js"></script>
+    <script src="/script/headerScript.js"></script>
 </header>

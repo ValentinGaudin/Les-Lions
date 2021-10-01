@@ -6,6 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>The Lions</title>
+
         <link rel="stylesheet" type="text/css" href="/articlePageStyle.css"> 
         <link rel="stylesheet" type="text/css" href="/header.css">
 
@@ -19,41 +20,41 @@
 </head>
 
 <body>
-
-    <?php include("../header.php"); ?>
+        <!-- Barre de navgiation & bannière -->
+<?php include("../header.php"); ?>
         <h1>Restaurants à Lyon</h1>
 
 <section class="sectionArticles">
 
 
-    <article class="positioningImage">
-   <h2><a href="/Restaurants/Articles/article_default.php">Paul Bocuse</a></h2>
+        <article class="positioningImage">
+        <h2><a href="/Restaurants/Articles/article_default.php">Paul Bocuse</a></h2>
         
-            <img class="imageArticle" src= "">
-            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <p>Une étoile</p>
-    </article>
+                <img class="imageArticle" src= "">
+        <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <p>Une étoile</p>
+        </article>
 
-    <article class="positioningImage">
+        <article class="positioningImage">
         <h2>Georges Blanc</h2>
-            <img class="imageArticle" src=>
-            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <p>Une étoile</p>
-    </article>
+                <img class="imageArticle" src=>
+                <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p>Une étoile</p>
+        </article>
 
-    <article class="positioningImage">
+        <article class="positioningImage">
         <h2>Jean-Paul Rouve</h2>
-            <img class="imageArticle" src=>
-            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <p>Une étoile</p>
-    </article>
+                <img class="imageArticle" src=>
+                <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p>Une étoile</p>
+        </article>
 
-    <article class="positioningImage">
+        <article class="positioningImage">
         <h2>Michel Drucker</h2>
-            <img class="imageArticle" src=>
-            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <p>note</p>
-    </article>
+                <img class="imageArticle" src=>
+                <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <p>note</p>
+        </article>
 
 </section>
 <div class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></div>

@@ -8,7 +8,11 @@
 
         <link rel="stylesheet" type="text/css" href="/articlePageStyle.css"> 
         <link rel="stylesheet" type="text/css" href="/header.css">
+<<<<<<< HEAD
+
+=======
         
+>>>>>>> main
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100&display=swap" rel="stylesheet">
@@ -17,12 +21,11 @@
         date_default_timezone_set('UTC');
         ?>
 </head>
-
-<?php include("../header.php"); ?>
-
 <body>
+    <!-- Barre de navgiation & bannière -->
+        <?php include("../header.php"); ?>
 
-<h1>Les meilleurs bars du pays Lyonnais</h1>
+        <h1>Les meilleurs bars du pays Lyonnais</h1>
 
 <section class="sectionArticles">
 
@@ -56,5 +59,7 @@ g    </article>
 
 </section>
 <div class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></div>
+
+
 </body>
 </html>
