@@ -30,7 +30,7 @@
                 
                         <article class="bocuse positioningImage" >
                         <h2>Paul Bocuse</h2>
-                                <a href="#"> <img class="imageArticle"></a>
+                                <a href="/Restaurants/Articles/article_default.php"> <img class="imageArticle"></a>
                                 <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro cupiditate fuga itaque culpa quasi accusamus in alias voluptatum, ex molestiae quidem iusto quisquam doloremque obcaecati similique voluptates quod, quo voluptate!
                                 </p>
@@ -38,7 +38,7 @@
                 
                         <article class="parcTeteDor positioningImage" >
                         <h2>Le parc de la tête d'or</h2>
-                                <a href="#"> <img class="imageArticle"></a>
+                                <a href=""> <img class="imageArticle"></a>
                                 <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
                                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem ipsum iusto, itaque aliquid, eligendi qui quasi earum minus, rem reiciendis mollitia minima corrupti sint harum? Porro, nemo. Delectus, at nostrum!
                                 </p>
