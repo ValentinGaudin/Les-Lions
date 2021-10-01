@@ -18,11 +18,10 @@
         ?>
 </head>
 
-<?php include("../header.php"); ?>
-
 <body>
-
-<h1>Lieux culturels et Monuments à Lyon</h1>
+    <!-- Barre de navgiation & bannière -->
+        <?php include("../header.php"); ?>  
+        <h1>Lieux culturels et Monuments à Lyon</h1>
 
 <section class="sectionArticles">
 
