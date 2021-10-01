@@ -32,6 +32,7 @@ h2{
     text-transform: uppercase;
     padding-top: 10%;
     text-shadow: 1px 1px 5px black;
+    color: white;
 }
 h2 a {
     text-decoration: none;
@@ -58,7 +59,7 @@ h2 a {
     align-items: center;
 }
 .bocuse {
-    background-image: url("/images/restaurant.jpg");
+    background-image: url("/images/le-boeuf-d-argent.jpg");
 }
 .parcTeteDor {
     background-image: url("/images/Parcdelatetedor01.jpg");

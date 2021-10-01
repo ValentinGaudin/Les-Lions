@@ -28,9 +28,9 @@
 
 
         <article class="positioningImage">
-        <h2><a href="/Restaurants/Articles/article_default.php">Paul Bocuse</a></h2>
+        <h2><a href="/Restaurants/Articles/le_boeuf_dArgent.php">Le Boeuf d'Argent</a></h2>
         
-                <img class="imageArticle" src= "">
+                <img class="imageArticle" src="/images/le-boeuf-d-argent.jpg">
         <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         <p>Une étoile</p>
         </article>
