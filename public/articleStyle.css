@@ -3,7 +3,6 @@
     padding: 0px;
     box-sizing: border-box;
 }
-
 .article_titre  {
     display: flex;
     justify-content: center;
@@ -22,12 +21,10 @@ h1 {
     padding-top: 10px;
     letter-spacing: 5px;
 }
-
 .article_contenu {
     padding: 50px;
     text-align: center;
 }
-
 .article_notation{
     text-align: center;
     background-color: rgb(196,196,196);
@@ -39,8 +36,6 @@ h1 {
     align-items: center;
     justify-content: center;
     border-radius:10px;
-    
-
 }
 .article_notation img{
     margin-top: 20px;
@@ -51,7 +46,6 @@ h1 {
     display: flex;
     justify-content: flex-end;
 }
-
 .bouton-up{
     position: fixed;
     bottom: 0;
