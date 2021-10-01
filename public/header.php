@@ -14,7 +14,7 @@
         <nav>
             <div class="logo">
                 <a href="/index.php">
-                    <h4>The Lions</h4>
+                    <p>The Lions</p>
                 </a>
             </div>
             <ul class="nav-links">

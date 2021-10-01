@@ -20,7 +20,8 @@ nav{
     font-weight: bolder;
 }
 .logo a {
-    text-decoration:none;
+    color: white;
+    text-decoration: none;
 }
 .nav-links {
     display: flex;
