@@ -12,7 +12,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100&display=swap" rel="stylesheet">
         <?php
         // set the default timezone to use.
-        date_default_timezone_set('Etc/GMT+11');
+        date_default_timezone_set('UTC');
         ?>
 </head>
 
