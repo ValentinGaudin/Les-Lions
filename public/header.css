@@ -19,6 +19,9 @@ nav{
     font-size: 30px;
     font-weight: bolder;
 }
+.logo a {
+    text-decoration:none;
+}
 .nav-links {
     display: flex;
     justify-content: space-around;
