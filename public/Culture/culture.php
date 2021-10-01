@@ -19,7 +19,7 @@
 
 <body>
 
-<h1>Restaurants à Lyon</h1>
+<h1>Lieux culturels et Monuments à Lyon</h1>
 
 <section class="sectionArticles">
 
