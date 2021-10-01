@@ -1,9 +1,8 @@
 <!DOCTYPE html>
-
 <html lang="en">
 
 <head>
-        <link rel="stylesheet" type="text/css" href="header.css">
+        <link rel="stylesheet" type="text/css" href="/header.css">
 </head>
 
 
@@ -18,19 +17,19 @@
             </div>
             <ul class="nav-links">
                 <li>
-                    <a href="index.php">Accueil</a>
+                    <a href="/index.php">Accueil</a>
                 </li>
                 <li>
-                    <a href="Restaurants/restaurants.php">Restaurants</a>
+                    <a href="/Restaurants/restaurants.php">Restaurants</a>
                 </li>
                 <li>
-                    <a href="Bars/bars.php">Bars</a>
+                    <a href="/Bars/bars.php">Bars</a>
                 </li>
                 <li>
-                    <a href="Sports/sports.php">Sports</a>
+                    <a href="/Sports/sports.php">Sports</a>
                 </li>
                 <li>
-                    <a href="Culture.culture.php">Culture</a>
+                    <a href="/Culture/culture.php">Culture</a>
                 </li>
             </ul>
             <div class="burger">
