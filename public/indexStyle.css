@@ -6,10 +6,12 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-.mainTitle {
+h1 {
     text-align: center;
-    font-size: 2em;
+    font-size: 4em;
     font-weight: normal;
+    padding-top: 10px;
+    letter-spacing: 5px;
 }
 .container {
     width: 100%;
@@ -21,7 +23,6 @@ body {
     flex-flow: row wrap;
     height: 1600px;
 }
-
 article {
     display: block;
     overflow: scroll;
@@ -33,12 +34,64 @@ article {
     width: 40%;
     height: 30%;
 }
-
-.title{
+.bocuse {
+    background-image: url("/images/restaurant.jpg");
+    background-position: 50% 8%;
+    background-size: 500px, 350px, auto;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    align-items: center;
+}
+.parcTeteDor {
+    background-image: url("/images/Parcdelatetedor01.jpg");
+    background-position: 50% 10%;
+    background-size: 500px, 350px, auto;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    align-items: center;
+}
+.museum {
+    background-image: url("/images/culturePlace.jpg");
+    background-position: 50% 10%;
+    background-size: 500px, 350px, auto;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    align-items: center;
+}
+.bar {
+    background-image: url("/images/bar.jpg");
+    background-position: 50% 10%;
+    background-size: 500px, 350px, auto;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    align-items: center;
+}
+.placeBellecour {
+    background-image: url("/images/lyonBellecour.jpg");
+    background-position: 50% 10%;
+    background-size: 500px, 350px, auto;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    align-items: center;
+}
+.fourviere {
+    background-image: url("/images/hoteldieu.jpg");
+    background-position: 50% 10%;
+    background-size: 500px, 350px, auto;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    align-items: center;
+}
+h2{
     text-align: center;
-    font-size: 130%;
+    font-size: 4em;
     font-family: 'Poppins', sans-serif;
-    font-weight: bolder;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: black;
+    padding-top: 10%;
+    text-decoration-line: underline white;
+    text-shadow: 4px 4px white;
 }
 .imageArticle {
     width:70%;
@@ -46,21 +99,10 @@ article {
 .description {
     font-style: italic;
     margin: 1em;
+    padding-top: 37%;
 }
-/* @media screen and (max-width: 1230px){
-    article {
-        width: 100%;
-        height: 40%;
-    }
-    .lastArticle {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        height: 1600px;
-    }
-} */
-@media screen and (max-width:1024px){
+
+@media screen and (max-width:1230px){
     article {
         width: 80%;
         height: 40%;

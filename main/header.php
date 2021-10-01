@@ -1,6 +1,12 @@
 <!DOCTYPE html>
-<html>
-<link rel="stylesheet" type="text/css" href="/public/header.css">   
+
+<html lang="en">
+
+<head>
+        <link rel="stylesheet" type="text/css" href="/public/header.css">
+</head>
+
+
 <header>
     <div class="banniere">
         <section class="bann">
