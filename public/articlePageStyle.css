@@ -29,7 +29,13 @@ article {
     box-shadow: 0px 0px 15px grey;
     width: 40%;
     height: 30%;
-
+}
+.positioningImage {
+    background-position: 50% 8%;
+    background-size: 500px, 350px, auto;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    align-items: center;
 }
 h2{
     text-align: center;
