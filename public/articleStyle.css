@@ -17,9 +17,10 @@
 }
 h1 {
     text-align: center;
-    color: white;
     font-size: 3em;
-    padding: 150px;
+    font-weight: normal;
+    padding-top: 10px;
+    letter-spacing: 5px;
 }
 
 .article_contenu {

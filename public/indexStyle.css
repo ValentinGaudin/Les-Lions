@@ -8,7 +8,7 @@ body {
 }
 h1 {
     text-align: center;
-    font-size: 4em;
+    font-size: 3em;
     font-weight: normal;
     padding-top: 10px;
     letter-spacing: 5px;
@@ -66,10 +66,10 @@ h2{
     font-family: 'Poppins', sans-serif;
     font-weight: 900;
     text-transform: uppercase;
-    color: black;
+    color: white;
     padding-top: 10%;
     text-decoration-line: underline white;
-    text-shadow: 4px 4px white;
+    text-shadow: 1px 1px 5px black;
 }
 .imageArticle {
     width:70%;
