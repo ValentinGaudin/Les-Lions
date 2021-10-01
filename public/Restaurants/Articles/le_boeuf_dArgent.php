@@ -27,7 +27,7 @@
 <?php include ("../../header.php");?>
 <div class='article_details'>
 
-        <h1 class="article_titre">Titre de l'article</h1>
+        <h1 class="article_titre">Le Boeuf d'Argent</h1>
 
     <div class='article_contenu'>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
