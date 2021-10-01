@@ -13,7 +13,9 @@
         </section>
         <nav>
             <div class="logo">
-                <h4>The Lions</h4>
+                <a href="/index.php">
+                    <h4>The Lions</h4>
+                </a>
             </div>
             <ul class="nav-links">
                 <li>
