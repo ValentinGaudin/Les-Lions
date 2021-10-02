@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,7 +24,7 @@
 <?php include ("../../header.php");?>
 <div class='article_details'>
 
-        <h1 class="article_titre leBoeufdArgent">Le Boeuf d'Argent</h1>
+        <h1 class="article_titre mamamia">MamaMia Pizza</h1>
 
     <div class='article_contenu'>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
