@@ -50,6 +50,18 @@ article {
     background-attachment: local;
     align-items: center;
 }
+.fourviere {
+    background-image: url("/images/restaurant.jpg");
+}
+.mac {
+    background-image: url("/images/restaurant.jpg");
+}
+.miniature {
+    background-image: url("/images/restaurant.jpg");
+}
+.confluence {
+    background-image: url("/images/restaurant.jpg");
+}
 .imageArticle {
     width: 70%;
 }
