@@ -24,7 +24,7 @@
 <?php include("../header.php"); ?>
         <h1>Restaurants à Lyon</h1>
 
-<section class="sectionArticles">
+<section class="sectionArticles container">
 
 
         <article class="positioningImage">
@@ -36,8 +36,8 @@
         </article>
 
         <article class="positioningImage">
-        <h2>Georges Blanc</h2>
-                <img class="imageArticle" src=>
+        <h2><a href="/Restaurants/Articles/Mamamia.php">MamaMia Pizza</a></h2>
+                <img class="imageArticle" src="/images/MamaMia.jpg">
                 <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <p>Une étoile</p>
         </article>

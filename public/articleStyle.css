@@ -19,7 +19,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image:url("../../images/le-boeuf-d-argent.jpg");
+    
     background-size : cover;
     background-position: center;
     width: 100%;
@@ -42,6 +42,7 @@ h1 {
     align-items: center;
     justify-content: center;
     border-radius:10px;
+    text-align: center;
 }
 .article_notation img{
     width:50px;   
@@ -60,6 +61,12 @@ h1 {
     border-radius: 50% 50% 50% 50%;
     background-color: #245DA7;
     margin: 5px;
+}
+.leBoeufdArgent{
+    background-image:url("../../images/le-boeuf-d-argent.jpg");
+}
+.mamamia{
+    background-image:url("../../images/MamaMia.jpg");
 }
 #bouton{
     width: 100%;
