@@ -45,22 +45,22 @@ article {
 }
 .positioningImage {
     background-position: 50% 8%;
-    background-size: 500px, 350px, auto;
+    background-size: 100%, 100%, auto;
     background-repeat: no-repeat;
     background-attachment: local;
     align-items: center;
 }
 .fourviere {
-    background-image: url("/images/restaurant.jpg");
+    background-image: url("/images/fourviere.jpg");
 }
 .mac {
-    background-image: url("/images/restaurant.jpg");
+    background-image: url("/images/mac.jpeg");
 }
-.miniature {
-    background-image: url("/images/restaurant.jpg");
+.mba {
+    background-image: url("/images/mba.jpeg");
 }
 .confluence {
-    background-image: url("/images/restaurant.jpg");
+    background-image: url("/images/confluence.jpg");
 }
 .imageArticle {
     width: 70%;

@@ -28,7 +28,7 @@
 
     <article class="fourviere positioningImage" >
         <h2><a href="Articles/fourviere.php">Basilique de Fourvière</a></h2>
-            <img class="imageArticle" src=>
+            <img class="imageArticle">
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Une étoile</p>
     </article>
@@ -40,16 +40,16 @@
             <p>Une étoile</p>
     </article>
 
-    <article class="miniature positioningImage">
-        <h2><a href="Articles/miniature.php">Musée des miniatures</a></h2>
-            <img class="imageArticle" src=>
+    <article class="mba positioningImage">
+        <h2><a href="Articles/mba.php">Musée des Beaux-Arts</a></h2>
+            <img class="imageArticle">
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>Une étoile</p>
     </article>
 
     <article class="confluence positioningImage">
         <h2><a href="Articles/confluence.php">Musée des Confluences</a></h2>
-            <img class="imageArticle" src=>
+            <img class="imageArticle">
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             <p>note</p>
     </article>

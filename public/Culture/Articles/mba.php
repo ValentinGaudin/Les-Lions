@@ -7,7 +7,7 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Musée des Miniatures - The Lions</title>
+        <title>Musée des Beaux-Arts - The Lions</title>
 
         <link rel="stylesheet" type="text/css" href="/articleStyle.css">
         <link rel="stylesheet" type="text/css" href="/header.css">
@@ -27,7 +27,7 @@
 
 <div class='article_details'>
 
-        <h1 class="article_titre">Musée des miniatures</h1>
+        <h1 class="article_titre">Musée des Beaux-Arts</h1>
 
     <div class='article_contenu'>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
