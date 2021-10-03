@@ -68,6 +68,27 @@ h1 {
 .mamamia{
     background-image:url("../../images/MamaMia.jpg");
 }
+.parcTeteDor {
+    background-image: url("../../images/parcDeLaTeteDor01.jpg");
+}
+.parcParilly {
+    background-image: url("../../images/parcParilly.jpg");
+}
+.climbUp {
+    background-image: url("../../images/climber01.jpg");
+}
+.hardRockCafe {
+    background-image: url("../../images/hardRockCafe.jpg");
+}
+.leFlorian {
+    background-image: url("../../images/leFlorian.jpg");
+}
+.theMonkeyClub {
+    background-image: url("../../images/theMonkeyClub.jpg");
+}
+.diplomatico {
+    background-image: url("../../images/diplomatico.jpg");
+}
 #bouton{
     width: 100%;
 }

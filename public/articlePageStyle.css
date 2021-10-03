@@ -57,8 +57,21 @@ h2 a {
     background-attachment: local;
     align-items: center;
 }
+.positioningImage a {
+    text-decoration: none;
+}
 .imageArticle {
     width: 70%;
+}
+.tagetdate {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 30%;
+    height: auto;
+}
+.tag a {
+    text-decoration: none;
 }
 .description {
     font-style: italic;
@@ -77,6 +90,11 @@ h2 a {
     border-radius: 50% 50% 50% 50%;
     background-color: #245DA7;
     margin: 5px;
+}
+.article_notation img{
+    width:50px;   
+    height:50px;
+    margin-top: 20px;
 }
 #bouton{
     width: 100%;

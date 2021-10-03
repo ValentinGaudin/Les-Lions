@@ -27,19 +27,20 @@
 <?php include ("../../header.php");?>
 <div class='article_details'>
 
-    <h1 class="article_titre">Titre de l'article</h1>
+    <h1 class="article_titre hardRockCafe">Hard Rock Cafe</h1>
 
     <div class='tagetdate'>
         <div class='tag'>
-            <p>Catégorie : <a href='../sports.php' >#sports</a></p>
+            <p>Catégorie : <a href='../bars.php'>#bars</a></p>
         </div>
         <div class='dateparu'>
-            <p>Date de parution : 01/01/2021</p>
+            <p>Date de parution : 04/07/2021</p>
         </div>
     </div>
 
     <div class='article_contenu'>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
+        <p>La célèbre enseigne internationale s’installe enfin à Lyon en 2016 dans le quartier Grôlée sur la presqu’île. Avec une formule plutôt originale tout en gardant l’esprit Rock and Roll propre à la marque. Les espaces sont plus clair dans un design plus épuré. Dans un espace de 800 m², vous trouverez les meilleurs Burger avec un choix de vins de la région.</p>
+        <p>Pour les informations pratiques : l’établissement est ouvert tous les jours de 9h à 23h et jusqu’à minuit les vendredi et samedi soir.</p>    
         <br>
         
     </div>
