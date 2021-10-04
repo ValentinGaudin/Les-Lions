@@ -29,8 +29,17 @@
 
         <h1 class="article_titre leBoeufdArgent">Le Boeuf d'Argent</h1>
 
+        <div class='tagetdate'>
+        <div class='tag'>
+            <p>Catégorie : <a href='../restaurants.php' >#restaurants</a></p>
+        </div>
+        <div class='dateparu'>
+            <p>Date de parution : 01/10/2021</p>
+        </div>
+    </div>
+
     <div class='article_contenu'>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
+        <p>Situé dans le Vieux Lyon, Le Boeuf d’Argent et son chef Lyonnais renommé : Mr Giraud, Henri Balland proposent une cuisine maison de qualité dans un cadre intimiste et chaleureux.<br>Les différents menus offrent un choix de plats raffinés et très joliment présentés. Les produits sont de qualité, de saison et choisis chez des producteurs locaux.<br>En 2019 le chef obtient pour Le Boeuf d'Argent le titre de Maître Restaurateur: titre d’Etat remis par la Préfecture du Rhône.</p>    
         <br>
         
     </div>

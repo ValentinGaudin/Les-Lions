@@ -29,10 +29,21 @@
 
         <h1 class="article_titre bistrotOrcia">Bistrot Orcia</h1>
 
+        <div class='tagetdate'>
+        <div class='tag'>
+            <p>Catégorie : <a href='../restaurants.php' >#restaurants</a></p>
+        </div>
+        <div class='dateparu'>
+            <p>Date de parution : 01/10/2021</p>
+        </div>
+    </div>
+
     <div class='article_contenu'>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
-        <br>
-        
+        <p>
+
+Bistrot Croix Rousse, à deux pas du Gros Cailloux, une équipe de passionnés vous accueille dans un cadre élégant et chaleureux où tout a été pensé  pour votre confort.<br>
+La cuisine du bistrot Orcia, élaborée à partir de produits frais et locaux se décline au fil des saisons en menu du marché le midi, en petits plats festifs à partager le soir et en déjeuner convivial le dimanche.<br>
+Pour accompagner le tout, un large panel de vins de caractère, de bières belges, de sodas et jus de fruits artisanaux a été rigoureusement sélectionné pour le plus grand plaisir de tous.</p>    
     </div>
 
     <div class='article_notation'>

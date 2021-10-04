@@ -29,8 +29,19 @@
 
         <h1 class="article_titre littleWarung">My Little Warung</h1>
 
+    <div class='tagetdate'>
+        <div class='tag'>
+            <p>Catégorie : <a href='../restaurants.php' >#restaurants</a></p>
+        </div>
+        <div class='dateparu'>
+            <p>Date de parution : 01/10/2021</p>
+        </div>
+    </div>
+
     <div class='article_contenu'>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
+        <p>Bienvenue dans un monde de fraîcheur, de saveurs authentiques, dans une ambiance décontractée. Respirez profondément et embarquez pour un voyage… au cœur de l’Asie du sud-est.<br>
+        My Little Warung forme la communauté de ses clients, de ses collaborateurs et de ses franchisés, les « warungers »<br>
+        Accueil, qualité des plats, plaisir et confort dans un esprit zen, c’est ça l’esprit Warung !</p>    
         <br>
         
     </div>
