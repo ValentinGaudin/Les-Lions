@@ -43,15 +43,15 @@
         </article>
 
         <article class="positioningImage">
-        <h2>Jean-Paul Rouve</h2>
-                <img class="imageArticle" src=>
+        <h2><a href="/Restaurants/Articles/my_little_warung.php">My Little Warung</a></h2>
+                <img class="imageArticle" src="/images/warung.jpg">
                 <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <p>Une étoile</p>
         </article>
 
         <article class="positioningImage">
-        <h2>Michel Drucker</h2>
-                <img class="imageArticle" src=>
+        <h2><a href="/Restaurants/Articles/bistrot_orcia.php">Bistrot Orcia</a></h2>
+                <img class="imageArticle" src="/images/bistrotOrcia.jpg">
                 <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                 <p>note</p>
         </article>

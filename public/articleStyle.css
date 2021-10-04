@@ -68,6 +68,12 @@ h1 {
 .mamamia{
     background-image:url("../../images/MamaMia.jpg");
 }
+.littleWarung{
+    background-image:url("../../images/warung.jpg");
+}
+.bistrotOrcia{
+    background-image:url("../../images/bistrotOrcia.jpg");
+}
 #bouton{
     width: 100%;
 }
