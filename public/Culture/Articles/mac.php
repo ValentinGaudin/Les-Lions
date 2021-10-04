@@ -7,11 +7,11 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>The Lions</title>
+        <title>Musée d'Art Contemporain - The Lions</title>
 
         <link rel="stylesheet" type="text/css" href="/articleStyle.css">
-        <link rel="stylesheet" type="text/css" href="/articlePageStyle.css"> 
         <link rel="stylesheet" type="text/css" href="/header.css">
+        <link rel="stylesheet" type="text/css" href="/articlePageStyle.css"> 
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -25,19 +25,18 @@
 <body>
 <!-- Barre de navgiation & bannière -->
 <?php include ("../../header.php");?>
+
 <div class='article_details'>
 
-    <h1 class="article_titre">Titre de l'article</h1>
-
-    <div class='tagetdate'>
+        <h1 class="article_titre mac">Musée d'Art Contemporain</h1>
+        <div class='tagetdate'>
         <div class='tag'>
-            <p>Catégorie : <a href='../sports.php' >#sports</a></p>
+            <p>Catégorie : <a href='../culture.php' ><b>#Culture</b></a></p>
         </div>
         <div class='dateparu'>
-            <p>Date de parution : 01/01/2021</p>
+            <p>Date de parution : <b>01/10/2021</b></p>
         </div>
-    </div>
-
+        </div>
     <div class='article_contenu'>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
         <br>
@@ -52,4 +51,5 @@
 
 </div>
 <div class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></div>
+
 </body>
