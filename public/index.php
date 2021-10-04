@@ -30,8 +30,8 @@
         <section class="lastArticle container" >
                 
                         <article class="bocuse positioningImage" >
-                        <h2>Paul Bocuse</h2>
-                                <a href="/Restaurants/Articles/article_default.php"> <img class="imageArticle"></a>
+                        <h2>Le Boeuf d'Argent</h2>
+                                <a href="/Restaurants/Articles/le_boeuf_dArgent.php"> <img class="imageArticle"></a>
                                 <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro cupiditate fuga itaque culpa quasi accusamus in alias voluptatum, ex molestiae quidem iusto quisquam doloremque obcaecati similique voluptates quod, quo voluptate!
                                 </p>

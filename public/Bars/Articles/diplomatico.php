@@ -27,19 +27,20 @@
 <?php include ("../../header.php");?>
 <div class='article_details'>
 
-    <h1 class="article_titre">Titre de l'article</h1>
+    <h1 class="article_titre diplomatico">Le Diplomatico</h1>
 
     <div class='tagetdate'>
         <div class='tag'>
-            <p>Catégorie : <a href='../sports.php' >#sports</a></p>
+            <p>Catégorie : <a href='../bars.php' >#bars</a></p>
         </div>
         <div class='dateparu'>
-            <p>Date de parution : 01/01/2021</p>
+            <p>Date de parution : 01/10/2021</p>
         </div>
     </div>
 
     <div class='article_contenu'>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
+        <p>Situé sur les bords de Soane, juste en face du palais de justice, établissement propose un grand choix de boisson, de la classique bière aux cocktails les plus sophistiqués. La décoration a été revu de fond en comble pour offrir aujourd’hui un cadre des plus moderne et raffiné.</p>
+        <p>Informations pratiques : 1 quai des Célestins, 69002 Lyon, l’établissement est ouvert tous les jours toute l’année de 9h à 3h du matin.</p>    
         <br>
         
     </div>

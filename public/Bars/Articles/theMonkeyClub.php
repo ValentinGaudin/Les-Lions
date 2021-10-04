@@ -27,19 +27,20 @@
 <?php include ("../../header.php");?>
 <div class='article_details'>
 
-    <h1 class="article_titre">Titre de l'article</h1>
+    <h1 class="article_titre theMonkeyClub">The Monkey Club</h1>
 
     <div class='tagetdate'>
         <div class='tag'>
-            <p>Catégorie : <a href='../sports.php' >#sports</a></p>
+            <p>Catégorie : <a href='../bars.php' >#bars</a></p>
         </div>
         <div class='dateparu'>
-            <p>Date de parution : 01/01/2021</p>
+            <p>Date de parution : 12/09/2021</p>
         </div>
     </div>
 
     <div class='article_contenu'>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
+        <p>Au cœur de la presqu’île, ce lieu est très atypique. Entre mobilier classique de type victorien et objets insolites, découvrez un choix de cocktails impressionnants et spiritueux old school, le tout agrémenté de petits en-cas histoire de se nourrir un peu.</p>
+        <p> Informations pratiques : 19 place de Tolozan 69001 LYON l’établissement vous accueil du mardi au samedi de 18h à 1h et jusqu’à 3h les vendredi et samedi.</p>   
         <br>
         
     </div>

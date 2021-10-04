@@ -10,13 +10,20 @@ h1 {
     padding-top: 10px;
     letter-spacing: 5px;
 }
+.article_details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .article_titre  {
     display: flex;
     justify-content: center;
-    background-image:url("../../images/Parcdelatetedor01.jpg");
+    align-items: center;
+    
     background-size : cover;
     background-position: center;
     width: 100%;
+    min-block-size: 400px ;
     color: white;
     font-weight: bolder;
     text-shadow: 1px 1px 5px black;
@@ -26,21 +33,21 @@ h1 {
     text-align: center;
 }
 .article_notation{
-    text-align: center;
     background-color: rgb(196,196,196);
     width: 80%;
     height: 150px;
-    margin:auto;
+    margin: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     border-radius:10px;
+    text-align: center;
 }
 .article_notation img{
-    margin-top: 20px;
     width:50px;   
     height:50px;
+    margin-top: 20px;
 }
 .div-bouton-up{
     display: flex;
@@ -54,6 +61,33 @@ h1 {
     border-radius: 50% 50% 50% 50%;
     background-color: #245DA7;
     margin: 5px;
+}
+.leBoeufdArgent{
+    background-image:url("../../images/le-boeuf-d-argent.jpg");
+}
+.mamamia{
+    background-image:url("../../images/MamaMia.jpg");
+}
+.parcTeteDor {
+    background-image: url("../../images/parcDeLaTeteDor01.jpg");
+}
+.parcParilly {
+    background-image: url("../../images/parcParilly.jpg");
+}
+.climbUp {
+    background-image: url("../../images/climber01.jpg");
+}
+.hardRockCafe {
+    background-image: url("../../images/hardRockCafe.jpg");
+}
+.leFlorian {
+    background-image: url("../../images/leFlorian.jpg");
+}
+.theMonkeyClub {
+    background-image: url("../../images/theMonkeyClub.jpg");
+}
+.diplomatico {
+    background-image: url("../../images/diplomatico.jpg");
 }
 #bouton{
     width: 100%;
