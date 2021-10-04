@@ -28,32 +28,50 @@
 
 
         <article class="positioningImage leBoeufDargent">
-        <h2><a href="/Restaurants/Articles/le_boeuf_dArgent.php">Le Boeuf d'Argent</a></h2>
+                <h2><a href="/Restaurants/Articles/le_boeuf_dArgent.php">Le Boeuf d'Argent</a></h2>
         
                 
-        <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-        <p>Une étoile</p>
+                <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <div class='article_notation'>
+                <img src="/images/red-star.png">
+                </div>
+        </article>
+
+        <article class="positioningImage">
+                        <h2>Jean-Paul Rouve</h2>
+                
+                <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <div class='article_notation'>
+                <img src="/images/red-star.png">
+                </div>
         </article>
 
         <article class="positioningImage mamamia">
-        <h2><a href="/Restaurants/Articles/Mamamia.php">MamaMia Pizza</a></h2>
+                        <h2><a href="/Restaurants/Articles/Mamamia.php">MamaMia Pizza</a></h2>
                 
-                <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <p>Une étoile</p>
+                <p class="description">Implantée depuis 2007 à Lyon, Jordan Tomas – Pizza Mamamia est aujourd’hui devenue une institution de la cuisine Italienne. Sous les ordres de Jordan Tomas, au palmarès impressionnant dans le monde des pizzaïolos, l’établissement a grandit au fil des années au point de devenir une référence dans son domaine au point d’être élue meilleure pizzeria de France en 2018 par TripAdvisor</p>
+                <div class='article_notation'>
+                <img src="/images/red-star.png">
+                </div>
         </article>
 
-        <article class="positioningImage">
-        <h2>Jean-Paul Rouve</h2>
+        <article class="positioningImage warung">
+                        <h2><a href="/Restaurants/Articles/my_little_warung.php">My Little Warung</a></h2>
                 
-                <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <p>Une étoile</p>
+                <p class="description">Bienvenue dans un monde de fraîcheur, de saveurs authentiques, dans une ambiance décontractée. Respirez profondément et embarquez pour un voyage… au cœur de l’Asie du sud-est.</p>
+                <div class='article_notation'>
+                <img src="/images/red-star.png">
+                </div>
+
         </article>
 
-        <article class="positioningImage">
-        <h2>Michel Drucker</h2>
-                <img class="imageArticle" src=>
-                <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <p>note</p>
+        <article class="positioningImage bistrotOrcia">
+                        <h2><a href="/Restaurants/Articles/bistrot_orcia.php">Bistrot Orcia</a></h2>
+                
+                <p class="description">Bistrot Croix Rousse, à deux pas du Gros Cailloux, une équipe de passionnés vous accueille dans un cadre élégant et chaleureux où tout a été pensé  pour votre confort.</p>
+                <div class='article_notation'>
+                <img src="/images/red-star.png">
+                </div>
         </article>
 
 </section>

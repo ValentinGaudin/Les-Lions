@@ -51,7 +51,7 @@ article {
     overflow: scroll;
 }
 /* HERE GOES THE IMAGE IN BG */
-
+/* IMG for CULTURE */
 .fourviere {
     background-image: url("/images/fourviere.jpg");
 }
@@ -64,6 +64,8 @@ article {
 .confluence {
     background-image: url("/images/confluence.jpg");
 }
+/* STOP */
+/* IMG for SPORTS */
 .parcTeteDor {
     background-image: url("/images/parcDeLaTeteDor01.jpg");
 }
@@ -73,12 +75,22 @@ article {
 .climbUp {
     background-image: url("/images/climber01.jpg");
 }
+/* STOP */
+/* IMG for Restaurant */
 .leBoeufDargent {
     background-image: url("/images/le-boeuf-d-argent.jpg");
 }
 .mamamia {
     background-image: url("/images/MamaMia.jpg");
 }
+.warung {
+    background-image: url("/images/warung.jpg");
+}
+.bistrotOrcia{
+    background-image: url("/images/bistrotOrcia.jpg");
+}
+/* STOP */
+/* IMG for bars */
 .hardRockCafe{
     background-image: url("/images/hardRockCafe.jpg");
 }
@@ -91,6 +103,7 @@ article {
 .diplomatico{
     background-image: url("/images/diplomatico.jpg");
 }
+/* STOP */
 .positioningImage {
     background-position: 50% 8%;
     background-size: 80%, 80%, auto;

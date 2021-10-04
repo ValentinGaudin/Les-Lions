@@ -27,9 +27,9 @@
 <?php include ("../../header.php");?>
 <div class='article_details'>
 
-        <h1 class="article_titre leBoeufdArgent">Le Boeuf d'Argent</h1>
+        <h1 class="article_titre littleWarung">My Little Warung</h1>
 
-        <div class='tagetdate'>
+    <div class='tagetdate'>
         <div class='tag'>
             <p>Catégorie : <a href='../restaurants.php' >#restaurants</a></p>
         </div>
@@ -39,7 +39,9 @@
     </div>
 
     <div class='article_contenu'>
-        <p>Situé dans le Vieux Lyon, Le Boeuf d’Argent et son chef Lyonnais renommé : Mr Giraud, Henri Balland proposent une cuisine maison de qualité dans un cadre intimiste et chaleureux.<br>Les différents menus offrent un choix de plats raffinés et très joliment présentés. Les produits sont de qualité, de saison et choisis chez des producteurs locaux.<br>En 2019 le chef obtient pour Le Boeuf d'Argent le titre de Maître Restaurateur: titre d’Etat remis par la Préfecture du Rhône.</p>    
+        <p>Bienvenue dans un monde de fraîcheur, de saveurs authentiques, dans une ambiance décontractée. Respirez profondément et embarquez pour un voyage… au cœur de l’Asie du sud-est.<br>
+        My Little Warung forme la communauté de ses clients, de ses collaborateurs et de ses franchisés, les « warungers »<br>
+        Accueil, qualité des plats, plaisir et confort dans un esprit zen, c’est ça l’esprit Warung !</p>    
         <br>
         
     </div>

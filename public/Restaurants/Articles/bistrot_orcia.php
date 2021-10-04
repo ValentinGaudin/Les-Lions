@@ -27,7 +27,7 @@
 <?php include ("../../header.php");?>
 <div class='article_details'>
 
-        <h1 class="article_titre leBoeufdArgent">Le Boeuf d'Argent</h1>
+        <h1 class="article_titre bistrotOrcia">Bistrot Orcia</h1>
 
         <div class='tagetdate'>
         <div class='tag'>
@@ -39,9 +39,11 @@
     </div>
 
     <div class='article_contenu'>
-        <p>Situé dans le Vieux Lyon, Le Boeuf d’Argent et son chef Lyonnais renommé : Mr Giraud, Henri Balland proposent une cuisine maison de qualité dans un cadre intimiste et chaleureux.<br>Les différents menus offrent un choix de plats raffinés et très joliment présentés. Les produits sont de qualité, de saison et choisis chez des producteurs locaux.<br>En 2019 le chef obtient pour Le Boeuf d'Argent le titre de Maître Restaurateur: titre d’Etat remis par la Préfecture du Rhône.</p>    
-        <br>
-        
+        <p>
+
+Bistrot Croix Rousse, à deux pas du Gros Cailloux, une équipe de passionnés vous accueille dans un cadre élégant et chaleureux où tout a été pensé  pour votre confort.<br>
+La cuisine du bistrot Orcia, élaborée à partir de produits frais et locaux se décline au fil des saisons en menu du marché le midi, en petits plats festifs à partager le soir et en déjeuner convivial le dimanche.<br>
+Pour accompagner le tout, un large panel de vins de caractère, de bières belges, de sodas et jus de fruits artisanaux a été rigoureusement sélectionné pour le plus grand plaisir de tous.</p>    
     </div>
 
     <div class='article_notation'>
