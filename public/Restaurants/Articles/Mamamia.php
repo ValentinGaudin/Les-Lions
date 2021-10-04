@@ -22,12 +22,24 @@
 <body>
     <!-- Barre de navgiation & bannière -->
 <?php include ("../../header.php");?>
-<div class='article_details'>
+    <div class='article_details'>
 
         <h1 class="article_titre mamamia">MamaMia Pizza</h1>
 
+        <div class='tagetdate'>
+        <div class='tag'>
+            <p>Catégorie : <a href='../restaurants.php' >#restaurants</a></p>
+        </div>
+        <div class='dateparu'>
+            <p>Date de parution : 01/10/2021</p>
+        </div>
+    </div>
     <div class='article_contenu'>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
+        <p>
+
+Implantée depuis 2007 à Lyon, Pizza Mamamia est aujourd’hui devenue une institution de la cuisine Italienne. Sous les ordres de Jordan Tomas, au palmarès impressionnant dans le monde des pizzaïolos, l’établissement a grandit au fil des années au point de devenir une référence dans son domaine au point d’être élue meilleure pizzeria de France en 2018 par TripAdvisor.<br>
+Pizza Mamamia, c’est le choix de produits de saisons et de qualité, l’association de saveurs, vous permettant de déguster une pizza à la préparation unique et au goût exceptionnel ! A découvrir si vous souhaitez vivre une expérience culinaire inégalée! 
+</p>    
         <br>
         
     </div>
