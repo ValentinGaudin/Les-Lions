@@ -50,7 +50,7 @@
     <article class="confluence positioningImage">
         <h2><a href="Articles/confluence.php">Musée des Confluences</a></h2>
             <img class="imageArticle">
-            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p class="description">Le musée des Confluences est un musée à part entière, premièrement avec sa position géographique, se situant au confluent du Rhône et de la Saône.</p>
             <p>note</p>
     </article>
 
