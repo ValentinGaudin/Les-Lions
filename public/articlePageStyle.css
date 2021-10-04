@@ -13,18 +13,7 @@ h1 {
     padding-top: 10px;
     letter-spacing: 5px;
 }
-article {
-    width: 80%;
-    height: 40%;
-    display: block;
-    overflow: hidden;
-    border-radius: 10px;
-    background-color: white;
-    margin: 1em;
-    text-align: center;
-    box-shadow: 0px 0px 15px grey;
-    
-}
+
 h2 { 
     text-align: center;
     font-size: 2.5em;
@@ -39,24 +28,30 @@ h2 a {
     text-decoration: none;
     color: white;
 }
-.container {
-    width: 100%;
-}    
+
+article {
+    width: 80%;
+    height: 40%;
+    display: block;
+    overflow: hidden;
+    border-radius: 10px;
+    background-color: white;
+    margin: 1em;
+    text-align: center;
+    box-shadow: 0px 0px 15px grey;
+    
+}  
 .sectionArticles {
     display: flex;
     flex-flow: column;
     align-items: center;
-    height: 1800px;
+    justify-content: center;
+    height: 30%;
     width: 100%;
     overflow: scroll;
 }
-.positioningImage {
-    background-position: 50% 8%;
-    background-size: 100%, 100%, auto;
-    background-repeat: no-repeat;
-    background-attachment: local;
-    align-items: center;
-}
+/* HERE GOES THE IMAGE IN BG */
+
 .fourviere {
     background-image: url("/images/fourviere.jpg");
 }
@@ -69,12 +64,44 @@ h2 a {
 .confluence {
     background-image: url("/images/confluence.jpg");
 }
+.parcTeteDor {
+    background-image: url("/images/parcDeLaTeteDor01.jpg");
+}
+.parcParilly {
+    background-image: url("/images/parcParilly.jpg");
+}
+.climbUp {
+    background-image: url("/images/climber01.jpg");
+}
+.leBoeufDargent {
+    background-image: url("/images/le-boeuf-d-argent.jpg");
+}
+.mamamia {
+    background-image: url("/images/MamaMia.jpg");
+}
+.hardRockCafe{
+    background-image: url("/images/hardRockCafe.jpg");
+}
+.leFlorian{
+    background-image: url("/images/leFlorian.jpg");
+}
+.theMonkeyClub{
+    background-image: url("/images/theMonkeyClub.jpg");
+}
+.diplomatico{
+    background-image: url("/images/diplomatico.jpg");
+}
+.positioningImage {
+    background-position: 50% 8%;
+    background-size: 80%, 80%, auto;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    align-items: center;
+}
 .positioningImage a {
     text-decoration: none;
 }
-.imageArticle {
-    width: 70%;
-}
+/* END OF IMG */
 .tagetdate {
     display: flex;
     justify-content: space-around;
@@ -82,7 +109,11 @@ h2 a {
     height: auto;
     margin: 10px;
     text-align: center;
-    padding: 10px;
+    padding: 10px 10px;
+    text-decoration: none;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid black;
+    border-radius: 50%;
 }
 .tag a {
     text-decoration: none;
@@ -93,6 +124,7 @@ h2 a {
     font-family: 'Poppins', sans-serif;
     color: white;
     text-shadow: 0px 0px 5px black;
+    padding-top: 22%;
 }
 .div-bouton-up{
     display: flex;
@@ -134,5 +166,9 @@ h2 a {
         flex-flow: row wrap;
         height: 1600px;
     }
-   
+    .description {
+        padding-top: 35%;
+        color: black;
+        text-shadow: 0px 0px 5px white;
+    }
 }

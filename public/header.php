@@ -1,7 +1,7 @@
 <header>
     <div class="banniere">
         <section class="bann">
-            <p>Bienvenue chez les Lions, regroupant toutes les meilleurs infos de l'agglomération Lyonnaise.</p>
+            <p>Chez les Lions,on regroupe toutes les meilleures infos. </p>
         </section>
         <nav>
             <div class="logo">

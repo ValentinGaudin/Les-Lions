@@ -13,9 +13,17 @@ h1 {
     padding-top: 10px;
     letter-spacing: 5px;
 }
+.lastArticle {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    height: 30%;
+    width: 100%;
+}
 article {
     width: 80%;
-    height: 40%;
+    height: 50%;
     display: block;
     overflow: hidden;
     border-radius: 10px;
@@ -40,16 +48,6 @@ h2 a {
 }
 .container {
     width: 100%;
-}
-
-.lastArticle {
-    display: flex;
-    flex-flow: column;
-    justify-content: center;
-    align-items: center;
-    height: 1800px;
-    width: 100%;
-    overflow: scroll;
 }
 .positioningImage {
     background-position: 50% 8%;
@@ -101,7 +99,7 @@ h2 a {
 .description {
     font-style: italic;
     margin: 1em;
-    padding-top: 37%;
+    padding-top: 28%;
 }
 .div-bouton-up{
     display: flex;
@@ -137,8 +135,10 @@ h2 a {
         justify-content: center; 
         align-items: center;
         flex-flow: row wrap;
-        height: 1600px;
+        height: 2500px;
     }
-   
+    .description {
+        padding-top: 35%;
+    }
 }
 

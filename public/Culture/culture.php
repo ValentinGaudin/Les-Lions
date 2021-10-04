@@ -24,33 +24,37 @@
 
         <h1>Lieux culturels et Monuments à Lyon</h1>
 
-<section class="sectionArticles">
+<section class="sectionArticles container">
 
     <article class="fourviere positioningImage" >
-        <h2><a href="Articles/fourviere.php">Basilique de Fourvière</a></h2>
+        <h2><a href="Articles/fourviere.php">Basilique de Fourvière</h2>
             <img class="imageArticle">
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </a>
             <p>Une étoile</p>
     </article>
 
     <article class="mac positioningImage">
-        <h2><a href="Articles/mac.php">Musée d'Art Contemporain</a></h2>
+        <h2><a href="Articles/mac.php">Musée d'Art Contemporain</h2>
             <img class="imageArticle">
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </a>
             <p>Une étoile</p>
     </article>
 
     <article class="mba positioningImage">
-        <h2><a href="Articles/mba.php">Musée des Beaux-Arts</a></h2>
+        <h2><a href="Articles/mba.php">Musée des Beaux-Arts</h2>
             <img class="imageArticle">
             <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            </a>
             <p>Une étoile</p>
     </article>
 
     <article class="confluence positioningImage">
-        <h2><a href="Articles/confluence.php">Musée des Confluences</a></h2>
+        <h2><a href="Articles/confluence.php">Musée des Confluences</h2>
             <img class="imageArticle">
             <p class="description">Le musée des Confluences est un musée à part entière, premièrement avec sa position géographique, se situant au confluent du Rhône et de la Saône.</p>
+            </a>
             <p>note</p>
     </article>
 
