@@ -89,6 +89,18 @@ h1 {
 .diplomatico {
     background-image: url("../../images/diplomatico.jpg");
 }
+.fourviere {
+    background-image: url("/images/fourviere.jpg");
+}
+.mac {
+    background-image: url("/images/mac.jpeg");
+}
+.mba {
+    background-image: url("/images/mba.jpeg");
+}
+.confluence {
+    background-image: url("/images/confluence.jpg");
+}
 #bouton{
     width: 100%;
 }
