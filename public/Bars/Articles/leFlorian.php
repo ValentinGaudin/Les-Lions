@@ -27,19 +27,20 @@
 <?php include ("../../header.php");?>
 <div class='article_details'>
 
-    <h1 class="article_titre">Titre de l'article</h1>
+    <h1 class="article_titre leFlorian">Le Florian</h1>
 
     <div class='tagetdate'>
         <div class='tag'>
-            <p>Catégorie : <a href='../sports.php' >#sports</a></p>
+            <p>Catégorie : <a href='../bars.php' >#bars</a></p>
         </div>
         <div class='dateparu'>
-            <p>Date de parution : 01/01/2021</p>
+            <p>Date de parution : 01/09/2021</p>
         </div>
     </div>
 
     <div class='article_contenu'>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
+        <p>Situé dans le vieux Lyon, inspiré du célèbre café de la place Saint-Marc de Venise, vous trouverez un large choix de cocktail et de spiritueux d’exception. Dans une ambiance tamisée et jazz, vous trouverez un personnel au petit soin et très professionnel.</p>
+        <p>Informations pratiques : situé 4 Place de la Baleine, 69005 LYON, l’accès se fait via le métro D à la station Vieux Lyon. L’établissement vous accueil tous les jours de 17h à 2h du Lundi au mercredi, jusqu’à 3h les jeudi et vendredi et les week-end de 14h à 3h le samedi et jusqu’à 2h les dimanche.</p>    
         <br>
         
     </div>
