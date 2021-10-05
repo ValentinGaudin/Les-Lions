@@ -30,7 +30,7 @@
         <section class="lastArticle container" >
                 
                         <article class="bocuse positioningImage" >
-                        <h2>Le Boeuf d'Argent</h2>
+                                <h2>Le Boeuf d'Argent</h2>
                                 <a href="/Restaurants/Articles/le_boeuf_dArgent.php"> <img class="imageArticle"></a>
                                 <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro cupiditate fuga itaque culpa quasi accusamus in alias voluptatum, ex molestiae quidem iusto quisquam doloremque obcaecati similique voluptates quod, quo voluptate!
@@ -38,11 +38,16 @@
                         </article>
                 
                         <article class="parcTeteDor positioningImage" >
-                        <h2>Le parc de la tête d'or</h2>
-                                <a href=""> <img class="imageArticle"></a>
-                                <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
+                                <a href="Sports/Articles/parctetedor.php">
+                                        <h2>Le parc de la tête d'or</h2>
+                                        
+                                        <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
                                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem ipsum iusto, itaque aliquid, eligendi qui quasi earum minus, rem reiciendis mollitia minima corrupti sint harum? Porro, nemo. Delectus, at nostrum!
-                                </p>
+                                        </p>
+                                        <div class='article_notation'>
+                                                <img src="/images/red-star.png">
+                                        </div>
+                                </a>
                         </article>
                 
                 
@@ -55,12 +60,15 @@
                         </article>
                         
                 
-                        <article class="bar positioningImage" > 
-                        <h2>Le soda Bar</h2>
-                                <a href="#"> <img class="imageArticle"></a>
-                                <p class="description" > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
-                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione reiciendis sapiente, numquam tempora accusantium labore error, ea praesentium, delectus aliquid autem quos corrupti illum corporis sunt. Dolorem nihil eveniet doloremque.
-                                </p>
+                        <article class="positioningImage leFlorian"> 
+                                <a href="Bars/Articles/leFlorian.php">
+                                        <h2>Le bar Le Florian</h2>
+                                        
+                                        <p class="description">Situé dans le vieux Lyon, inspiré du célèbre café de la place Saint-Marc de Venise, vous trouverez un large choix de cocktail et de spiritueux d’exception. Dans une ambiance tamisée et jazz, vous trouverez un personnel au petit soin et très professionnel.</p>
+                                        <div class='article_notation'>
+                                                <img src="/images/red-star.png">
+                                        </div>
+                                </a>
                         </article>
                 
                 
