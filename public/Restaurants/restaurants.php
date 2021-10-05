@@ -37,14 +37,6 @@
                 </div>
         </article>
 
-        <article class="positioningImage">
-                        <h2>Jean-Paul Rouve</h2>
-                
-                <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <div class='article_notation'>
-                <img src="/images/red-star.png">
-                </div>
-        </article>
 
         <article class="positioningImage mamamia">
                         <h2><a href="/Restaurants/Articles/Mamamia.php">MamaMia Pizza</a></h2>
