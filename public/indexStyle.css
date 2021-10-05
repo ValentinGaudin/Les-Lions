@@ -13,17 +13,10 @@ h1 {
     padding-top: 10px;
     letter-spacing: 5px;
 }
-.lastArticle {
-    display: flex;
-    flex-flow: column;
-    justify-content: center;
-    align-items: center;
-    height: 30%;
-    width: 100%;
-}
+
 article {
     width: 80%;
-    height: 50%;
+    height: 40%;
     display: block;
     overflow: hidden;
     border-radius: 10px;
@@ -41,10 +34,23 @@ h2{
     padding-top: 10%;
     text-shadow: 1px 1px 5px black;
     color: white;
+    height: 250px;
 }
 h2 a {
     text-decoration: none;
     color: white;
+}
+.positioning {
+    padding-top: 150px;
+}
+.lastArticle {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    height: 1800px;
+    width: 100%;
+    overflow: scroll;
 }
 .container {
     width: 100%;
@@ -56,12 +62,8 @@ h2 a {
     background-attachment: local;
     align-items: center;
 }
-.article_notation img{
-    width:50px;   
-    height:50px;
-    margin-top: 20px;
-}
-.bocuse {
+
+.leBoeufdArgent {
     background-image: url("/images/le-boeuf-d-argent.jpg");
 }
 .parcTeteDor {
@@ -97,14 +99,17 @@ h2 a {
 .fourviere {
     background-image: url("/images/hoteldieu.jpg");
 }
-
+.article_notation img{
+    width:50px;   
+    height:50px;
+    margin-top: 20px;
+}
 .imageArticle {
     width:70%;
 }
 .description {
     font-style: italic;
     margin: 1em;
-    padding-top: 28%;
 }
 .div-bouton-up{
     display: flex;
@@ -140,10 +145,7 @@ h2 a {
         justify-content: center; 
         align-items: center;
         flex-flow: row wrap;
-        height: 2500px;
-    }
-    .description {
-        padding-top: 35%;
+        height: 1500px;
     }
 }
 
