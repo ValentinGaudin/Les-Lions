@@ -29,61 +29,62 @@
 
         <section class="lastArticle container" >
                 
-                        <article class="bocuse positioningImage" >
-                                <h2>Le Boeuf d'Argent</h2>
-                                <a href="/Restaurants/Articles/le_boeuf_dArgent.php"> <img class="imageArticle"></a>
-                                <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
+                        <article class="leBoeufdArgent positioningImage" >
+                                
+                                <h2> <a href="/Restaurants/Articles/le_boeuf_dArgent.php">Le Boeuf d'Argent</a></h2>
+                                <p class="description positioning" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
                                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro cupiditate fuga itaque culpa quasi accusamus in alias voluptatum, ex molestiae quidem iusto quisquam doloremque obcaecati similique voluptates quod, quo voluptate!
                                 </p>
                         </article>
                 
                         <article class="parcTeteDor positioningImage" >
-                                <a href="Sports/Articles/parctetedor.php">
-                                        <h2>Le parc de la tête d'or</h2>
+                                <h2> <a href="Sports/Articles/parctetedor.php">Le parc de la tête d'or</a></h2>
                                         
-                                        <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
+                                        <p class="description positioning" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
                                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem ipsum iusto, itaque aliquid, eligendi qui quasi earum minus, rem reiciendis mollitia minima corrupti sint harum? Porro, nemo. Delectus, at nostrum!
                                         </p>
                                         <div class='article_notation'>
                                                 <img src="/images/red-star.png">
                                         </div>
-                                </a>
+                                
                         </article>
                 
                 
                         <article class="museum positioningImage" >
-                        <h2>Le musée de confluence</h2>
-                                <a href="#"> <img class="imageArticle"></a>
-                                <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
+                        <h2> <a href="#">Le musée de confluence</a></h2>
+
+                                
+                                <p class="description positioning" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt porro architecto nemo reprehenderit quibusdam praesentium, ipsa, quaerat, reiciendis vitae sit maiores adipisci vel veritatis libero. Quis tenetur officiis tempora doloribus.
                                 </p>
                         </article>
                         
                 
                         <article class="positioningImage leFlorian"> 
-                                <a href="Bars/Articles/leFlorian.php">
-                                        <h2>Le bar Le Florian</h2>
+                                
+                                        <h2><a href="Bars/Articles/leFlorian.php">Le bar Le Florian</a></h2>
                                         
-                                        <p class="description">Situé dans le vieux Lyon, inspiré du célèbre café de la place Saint-Marc de Venise, vous trouverez un large choix de cocktail et de spiritueux d’exception. Dans une ambiance tamisée et jazz, vous trouverez un personnel au petit soin et très professionnel.</p>
+                                        <p class="description positioning">Situé dans le vieux Lyon, inspiré du célèbre café de la place Saint-Marc de Venise, vous trouverez un large choix de cocktail et de spiritueux d’exception. Dans une ambiance tamisée et jazz, vous trouverez un personnel au petit soin et très professionnel.</p>
                                         <div class='article_notation'>
                                                 <img src="/images/red-star.png">
                                         </div>
-                                </a>
+                                
                         </article>
                 
                 
                         <article class="placeBellecour positioningImage" >
-                        <h2>Place Bellecour</h2>
-                                <a href="#"> <img class="imageArticle"></a>
-                                <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
+
+                        <h2> <a href="#"> Place Bellecour</a></h2>
+
+                                <p class="description positioning" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
                                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione reiciendis sapiente, numquam tempora accusantium labore error, ea praesentium, delectus aliquid autem quos corrupti illum corporis sunt. Dolorem nihil eveniet doloremque.
                                 </p>
                         </article>
 
                         <article class="fourviere positioningImage" >
-                        <h2>Fourvière</h2>
-                                <a href="#"> <img class="imageArticle"></a>
-                                <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
+                        <h2><a href="#">Fourvière</a></h2>
+                                
+                                <p class="description positioning" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
                                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione reiciendis sapiente, numquam tempora accusantium labore error, ea praesentium, delectus aliquid autem quos corrupti illum corporis sunt. Dolorem nihil eveniet doloremque.
                                 </p>
                         </article>
