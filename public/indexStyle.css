@@ -48,9 +48,8 @@ h2 a {
     flex-flow: column;
     justify-content: center;
     align-items: center;
-    height: 1800px;
+    height: 100%;
     width: 100%;
-    overflow: scroll;
 }
 .container {
     width: 100%;

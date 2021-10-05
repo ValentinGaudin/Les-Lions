@@ -29,7 +29,7 @@
     <article class="fourviere positioningImage" >
         <h2><a href="Articles/fourviere.php">Basilique de Fourvière</h2>
             <img class="imageArticle">
-            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p class="description">Créée à l'aube du XXème siècle en 1897, la Basilique de Fourvière a été edifiée en l'honneur et dans l'esprit de rendre grâce à la Vierge Marie.</p>
             </a>
             <p>Une étoile</p>
     </article>
@@ -37,7 +37,7 @@
     <article class="mac positioningImage">
         <h2><a href="Articles/mac.php">Musée d'Art Contemporain</h2>
             <img class="imageArticle">
-            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p class="description">Faisant partie de l'ancien Palais de la foire de Lyon, le Musée d'art contemporain de Lyon, souvent dénommé "MAC" est un musée du 6ème arrondissement consacré à l'art contemporain.</p>
             </a>
             <p>Une étoile</p>
     </article>
@@ -45,7 +45,7 @@
     <article class="mba positioningImage">
         <h2><a href="Articles/mba.php">Musée des Beaux-Arts</h2>
             <img class="imageArticle">
-            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p class="description">À la base une abbaye aux abords de la Révolution frnçaise, le musée des Beaux Arts actuel de Lyon à reçu ses premier tableaux en 1803 lorsque le Louvre en offre 110 au Musée de Lyon.</p>
             </a>
             <p>Une étoile</p>
     </article>
