@@ -31,7 +31,7 @@
 
     <div class='tagetdate'>
         <div class='tag'>
-            <p>Catégorie : <a href='../bars.php' >#bars</a></p>
+            <p>Catégorie : <br><a href='../bars.php' >#bars</a></p>
         </div>
         <div class='dateparu'>
             <p>Date de parution : 12/09/2021</p>

@@ -31,7 +31,7 @@
         <h1 class="article_titre confluence">Musée des Confluences</h1>
         <div class='tagetdate'>
         <div class='tag'>
-            <p>Catégorie : <a href='../culture.php' ><b>#Culture</b></a></p>
+            <p>Catégorie :<br> <a href='../culture.php' ><b>#Culture</b></a></p>
         </div>
         <div class='dateparu'>
             <p>Date de parution : <b>01/10/2021</b></p>

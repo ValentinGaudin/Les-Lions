@@ -117,18 +117,20 @@ article {
 .tagetdate {
     display: flex;
     justify-content: space-around;
-    width: 60%;
-    height: auto;
-    margin: 10px;
     text-align: center;
-    padding: 10px 10px;
+    width: auto;
+    height: auto;
+    margin: 15px;
+    padding: 10px;
     text-decoration: none;
-    margin: 10px 10px 10px 10px;
     border: 1px solid black;
-    border-radius: 50%;
+    border-radius: 50px;
+}
+.tagetdate p {
+    width: 150px;
 }
 .tag a {
-    text-decoration: none;
+    text-decoration: none;;
 }
 .description {
     font-style: italic;
