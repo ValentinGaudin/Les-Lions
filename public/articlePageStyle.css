@@ -118,19 +118,20 @@ article {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    width: auto;
+    align-items: center;
+    width: 60vw;
     height: auto;
-    margin: 15px;
-    padding: 10px;
+    margin: 20px;
+    padding: 15px;
     text-decoration: none;
     border: 1px solid black;
     border-radius: 50px;
 }
-.tagetdate p {
-    width: 150px;
-}
 .tag a {
     text-decoration: none;;
+}
+.tagetdate p {
+    width: 100px;
 }
 .description {
     font-style: italic;

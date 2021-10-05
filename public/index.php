@@ -29,14 +29,23 @@
 
         <section class="lastArticle container" >
                 
+<<<<<<< HEAD
                         <article class="leBoeufdArgent positioningImage" >
                                 
                                 <h2> <a href="/Restaurants/Articles/le_boeuf_dArgent.php">Le Boeuf d'Argent</a></h2>
                                 <p class="description positioning" >Situé dans le Vieux Lyon, Le Boeuf d’Argent et son chef Lyonnais renommé : Mr Giraud, Henri Balland proposent une cuisine maison de qualité dans un cadre intimiste et chaleureux.
+=======
+                        <article class="bocuse positioningImage" >
+                        <h2>Le Boeuf d'Argent</h2>
+                                <a href="/Restaurants/Articles/le_boeuf_dArgent.php"> <img class="imageArticle"></a>
+                                <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro cupiditate fuga itaque culpa quasi accusamus in alias voluptatum, ex molestiae quidem iusto quisquam doloremque obcaecati similique voluptates quod, quo voluptate!
+>>>>>>> parent of 22e6fef (Merge pull request #37 from ValentinGaudin/majindex)
                                 </p>
                         </article>
                 
                         <article class="parcTeteDor positioningImage" >
+<<<<<<< HEAD
                                 <h2> <a href="Sports/Articles/parctetedor.php">Le parc de la tête d'or</a></h2>
                                         
                                         <p class="description positioning" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
@@ -46,6 +55,13 @@
                                                 <img src="/images/red-star.png">
                                         </div>
                                 
+=======
+                        <h2>Le parc de la tête d'or</h2>
+                                <a href=""> <img class="imageArticle"></a>
+                                <p class="description" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
+                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Exercitationem ipsum iusto, itaque aliquid, eligendi qui quasi earum minus, rem reiciendis mollitia minima corrupti sint harum? Porro, nemo. Delectus, at nostrum!
+                                </p>
+>>>>>>> parent of 22e6fef (Merge pull request #37 from ValentinGaudin/majindex)
                         </article>
                 
                 
@@ -59,6 +75,7 @@
                         </article>
                         
                 
+<<<<<<< HEAD
                         <article class="positioningImage leFlorian"> 
                                 
                                         <h2><a href="Bars/Articles/leFlorian.php">Le bar Le Florian</a></h2>
@@ -68,6 +85,14 @@
                                                 <img src="/images/red-star.png">
                                         </div>
                                 
+=======
+                        <article class="bar positioningImage" > 
+                        <h2>Le soda Bar</h2>
+                                <a href="#"> <img class="imageArticle"></a>
+                                <p class="description" > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
+                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione reiciendis sapiente, numquam tempora accusantium labore error, ea praesentium, delectus aliquid autem quos corrupti illum corporis sunt. Dolorem nihil eveniet doloremque.
+                                </p>
+>>>>>>> parent of 22e6fef (Merge pull request #37 from ValentinGaudin/majindex)
                         </article>
                 
                 
