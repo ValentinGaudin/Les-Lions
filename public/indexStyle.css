@@ -62,8 +62,12 @@ h2 a {
     background-attachment: local;
     align-items: center;
 }
+<<<<<<< HEAD
 
 .leBoeufdArgent {
+=======
+.bocuse {
+>>>>>>> parent of 22e6fef (Merge pull request #37 from ValentinGaudin/majindex)
     background-image: url("/images/le-boeuf-d-argent.jpg");
 }
 .parcTeteDor {
