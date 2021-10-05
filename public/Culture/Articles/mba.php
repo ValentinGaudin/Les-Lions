@@ -38,7 +38,10 @@
         </div>
         </div>
     <div class='article_contenu'>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
+        <p>À la base une abbaye aux abords de la Révolution frnçaise, le musée des Beaux Arts actuel de Lyon à reçu ses premier tableaux en 1803 lorsque le Louvre en offre 110 au Musée de Lyon.<br>
+        Le Musée accueillera de nombreuses expositions ainsi que de rénovations.<br> 
+        Sa dernière ayant eu lieu entre 1990 et 1998. Les travaux furent faits en plusieurs tranches afin de ne jamais fermer au public.
+        </p>    
         <br>
         
     </div>
