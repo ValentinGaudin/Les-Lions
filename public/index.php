@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>The Lions</title>
+        <title>Page d'Accueil - The Lions</title>
         <link rel="stylesheet" type="text/css" href="indexStyle.css">
         <link rel="stylesheet" type="text/css" href="/header.css">
 
