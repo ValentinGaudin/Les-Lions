@@ -41,6 +41,7 @@
                     <p>Date de parution : 01/10/2021</p>
                 </div>
     </div>
+    <div class="placement">
 
     <div class='article_contenu'>
         <p>Situé sur les bords de Soane, juste en face du palais de justice, établissement propose un grand choix de boisson, de la classique bière aux cocktails les plus sophistiqués. La décoration a été revu de fond en comble pour offrir aujourd’hui un cadre des plus moderne et raffiné.</p>
@@ -48,6 +49,14 @@
         <br>
         
     </div>
+    <div class="mapSM">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.504092448783!2d4.829537615473214!3d45.76108692160508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea5457fa411b%3A0xd74241c476d32393!2sDiplomatico%20Brasserie!5e0!3m2!1sen!2sfr!4v1633522047585!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+
+    <div class="mapMD">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.504092448783!2d4.829537615473214!3d45.76108692160508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea5457fa411b%3A0xd74241c476d32393!2sDiplomatico%20Brasserie!5e0!3m2!1sen!2sfr!4v1633522047585!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+</div>
 
     <div class='article_notation'>
 

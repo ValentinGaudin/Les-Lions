@@ -39,7 +39,8 @@
             <p>Date de parution : 11/01/2021</p>
         </div>
     </div>
-
+<div class="placement">
+    
     <div class='article_contenu'>
         <p>Véritable poumon de la métropole de Lyon, cet espace de nature est largement accessible aux citadins. D’une superficie de 105 hectares, il a en son sein un lac de 16 hectares. Depuis octobre 2006, la partie zoo a été transformé afin d’accueil une plaine africaine. Elle permet de voir, au sein d’un même espace, une mixité d’animaux d’Afrique.</p>
         <p>Un peu d’histoire : c’est en 1857 que Lyon se dote d’un parc paysager. Il a fallu dans un premier temps mettre en place des digues afin de se préserver du fleuve Rhône. Puis, en quatre ans, le parc a été créé. A l’image du Bois de Boulogne et des jardins anglais, l’organisation n’a pas tellement évolué. C’est en 1904 et en 1912 que Tony Garnier a apporté quelques modernisations avec notamment la vacherie du Parc (laiterie municipale chargée de fournir du lait aux orphelins Lyonnais).</p>
@@ -47,8 +48,16 @@
         <p>Information pratique  avec ses 8 portes d’accès, le parc est très accessible. Que se soit par le 6ième arrondissement, avec la porte principale coté Rhône ou par Villeurbanne au niveau du boulevard Bataille de Stalingrad mais aussi au nord avec la situé International.</p>
         
         <br>
-        
+
     </div>
+    <div class="mapSM">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5567.525634167244!2d4.830731344323251!3d45.75590073120873!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea537bdc5ab3%3A0x5d9d9385f58b2047!2sPlace%20Bellecour!5e0!3m2!1sen!2sfr!4v1633515869814!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+
+    <div class="mapMD">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5567.525634167244!2d4.830731344323251!3d45.75590073120873!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea537bdc5ab3%3A0x5d9d9385f58b2047!2sPlace%20Bellecour!5e0!3m2!1sen!2sfr!4v1633515869814!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+</div>
 
     <div class='article_notation'>
 

@@ -24,7 +24,7 @@
 <?php include("../header.php"); ?>
         <h1>Restaurants à Lyon</h1>
 
-<section class="sectionArticles container">
+<section class="sectionArticles ">
 
 
         <article class="positioningImage leBoeufDargent">

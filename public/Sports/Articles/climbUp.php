@@ -39,16 +39,23 @@
             <p>Date de parution : 26/01/2021</p>
         </div>
     </div>
-
+<div class="placement">
     <div class='article_contenu'>
         <p>Pour les amateurs d’escalade, il est possible sur Lyon de pratiquer l’escalade dans de nombreux endroit notamment chez Climb-Up à Confluence. En effet c’est au cœur du centre commerciale qu’à ouvert cette structure avec un espace pour les enfants et un parcours aventure avec pont de singe, Tyrolienne etc. On peut aussi s’adonner au saut dans le vide de plus de 15 mètres de haut. Mais c’est surtout les 200 voies proposées et modifiées régulièrement sur une hauteur pouvant allée jusqu’à 22 mètres de hauteur qui vont ravir les pratiquants. Ouvert 7 jours sur 7 de 10h à 23h30.</p>
         <p>Pour les débutants, des formateurs sont disponibles pour vous initier en toute sécurité. Envie d’aller plus loin ? Après une formation sur les règles de sécurités, l’ensemble de la structure vous est accessible. Chacun va à son rythme et il y a toujours la possibilité de prendre un cours particuliers afin de progresser.</p>
         <p>Coté tarif, toutes les formules existes. Que se soit au coup par coup à partir de 16 Euros pour la journée ou par carte de 10 entrées avec un tarif qui tombe à 13 Euros la journée à un abonnement mensuel de 44 Euros sur 12 mois.</p>
-   
         <br>
         
     </div>
 
+    <div class="mapSM">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.399844945976!2d4.83339131547268!3d45.743129422809055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea379bcc2fbf%3A0x6e56ef9cd617614a!2sClimb%20Up%20Lyon%20Gerland!5e0!3m2!1sen!2sfr!4v1633524089225!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+
+    <div class="mapMD">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.399844945976!2d4.83339131547268!3d45.743129422809055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea379bcc2fbf%3A0x6e56ef9cd617614a!2sClimb%20Up%20Lyon%20Gerland!5e0!3m2!1sen!2sfr!4v1633524089225!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+</div>
     <div class='article_notation'>
 
         <p>Vous avez aimez l'article ? Rajoutez lui une étoile !</p>

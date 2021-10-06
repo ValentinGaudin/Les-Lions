@@ -19,7 +19,6 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    
     background-size : cover;
     background-position: center;
     width: 100%;
@@ -28,10 +27,16 @@ h1 {
     font-weight: bolder;
     text-shadow: 1px 1px 5px black;
 }
+
 .article_contenu {
     padding: 50px;
     text-align: center;
 }
+.placement{
+    text-align: center;
+}
+
+/* ---------------- Div notation ---------------- */
 .article_notation{
     background-color: rgb(196,196,196);
     width: 80%;
@@ -49,6 +54,7 @@ h1 {
     height:50px;
     margin-top: 20px;
 }
+/* ---------------- CSS for the button UP to Top ---------------- */
 .div-bouton-up{
     display: flex;
     justify-content: flex-end;
@@ -62,6 +68,8 @@ h1 {
     background-color: #245DA7;
     margin: 5px;
 }
+/* ---------------- CSS for IMG BG ---------------- */
+
 .leBoeufdArgent{
     background-image:url("../../images/le-boeuf-d-argent.jpg");
 }
@@ -113,5 +121,21 @@ h1 {
 }
 #bouton{
     width: 100%;
+} 
+.mapMD {
+    display: none;
 }
 
+@media screen and (min-width:1230px){
+    .placement {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .mapSM {
+        display: none;
+    }
+    .mapMD {
+        display: block;
+    }
+}
