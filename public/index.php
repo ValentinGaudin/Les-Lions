@@ -49,9 +49,7 @@
                                                         Des milliers d’essences végétales, une centaine d’espèces animales et un patrimoine inestimable. Mais s’est-on déjà demandé d’où venait son nom ? 
                                                 
                                         </p>
-                                        <div class='article_notation'>
-                                                <img src="/images/red-star.png">
-                                        </div>
+
                                 
                         </article>
                 
