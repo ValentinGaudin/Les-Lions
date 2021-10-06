@@ -1,12 +1,17 @@
 <?php
-echo "Valeur de POST : <br>";
-var_dump($_POST);
-echo "Valeur du FILES : <br>";
-var_dump($_FILES);
-
 // define variables and set to empty values
-$firstNameErr = $lastNameErr = $userEmailErr = $sujetErr = $userPhoneNumberErr = $userMessageErr = "";
+$firstNameErr = $lastNameErr = $userEmailErr = $sujetErr = $userPhoneNumberErr = $userMessageErr = $fileErr = "";
 $firstName = $lastName = $userEmail = $sujet = $userPhoneNumber = $userMessage = "";
+//Tableau des extensions que l'on accepte
+$extensions = ['jpg', 'png', 'jpeg', 'gif'];
+//Taille max que l'on accepte
+$maxSize = 400000;
+//récuperation des valeurs du $_FILES pour le fichier upload.
+$tmpName = $_FILES['photosuggest']['tmp_name'];
+$name = $_FILES['photosuggest']['name'];
+$size = $_FILES['photosuggest']['size'];
+$error = $_FILES['photosuggest']['error'];
+$retour = "";
 
 //echo $_SERVER["REQUEST_METHOD"]; 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
@@ -44,50 +49,35 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $userEmail = filter_var($_POST["user_mail"], FILTER_VALIDATE_EMAIL);
   }
 
-  if (empty($_POST["user_phone"])) {
-    $userPhoneNumberErr = "Phone Number is required<br>";
-    echo $userPhoneNumberErr;
-  } else {
+  if (!empty($_POST["user_phone"])) {
     $userPhoneNumber = filter_var($_POST["user_phone"], FILTER_CALLBACK,
     array("options"=>"strtoupper"));
   }
 
-  if (empty($_POST["user_message"])) {
+  if (empty($_POST["contentsuggest"])) {
     $userMessageErr = "Message is required<br>";
     echo $userMessageErr;
   } else {
-    $userMessage = filter_var($_POST["user_message"], FILTER_CALLBACK,
+    $userMessage = filter_var($_POST["contentsuggest"], FILTER_CALLBACK,
     array("options"=>"strtoupper"));
   }
   
-    $tmpName = $_FILES['photosuggest']['tmp_name'];
-    $name = $_FILES['photosuggest']['name'];
-    $size = $_FILES['photosuggest']['size'];
-    $error = $_FILES['photosuggest']['error'];
+  $tabExtension = explode('.', $name);
+  $extension = strtolower(end($tabExtension));
 
-    $tabExtension = explode('.', $name);
-    $extension = strtolower(end($tabExtension));
-//Tableau des extensions que l'on accepte
-    $extensions = ['jpg', 'png', 'jpeg', 'gif'];
-//Taille max que l'on accepte
-    $maxSize = 400000;
-    if(in_array($extension, $extensions) && $size <= $maxSize && $error == 0) {
-        $uniqueName = uniqid('', true);
-        //uniqid génère quelque chose comme ca : 5f586bf96dcd38.73540086
-        $file = $uniqueName.".".$extension;
-        //$file = 5f586bf96dcd38.73540086.jpg
-    }
-    else{
-        echo "Mauvaise extension ou taille trop grande";
-    }
-    if (empty($firstNameErr)&&empty($lastNameErr)&&empty($sujetErr)&&empty($userEmailErr)&&empty($userPhoneNumberErr)&&empty($userMessageErr)) {
-      echo "Merci ".$_POST['last_name']." ".$_POST['first_name']. 
-      " de nous avoir contacté à propos de ". $_POST['sujet']. ".<br>";
-      echo "Un de nos conseiller vous contactera soit à l’adresse ".$_POST['user_mail'].
-      " ou par téléphone au ". $_POST['user_phone_number'].
-      " dans les plus brefs délais pour traiter votre demande : <br>";
-      echo $_POST['user_message'];
-    }
+  if(in_array($extension, $extensions) && $size <= $maxSize && $error == 0) {
+     $uniqueName = uniqid('', true);
+     //uniqid génère quelque chose comme ca : 5f586bf96dcd38.73540086
+     $file = $uniqueName.".".$extension;
+     //$file = 5f586bf96dcd38.73540086.jpg
+     move_uploaded_file($tmpName, './upload/'.$file);
+  }
+  else{
+     $fileErr = "Mauvaise extension ou taille trop grande";
+  }
+  if (empty($firstNameErr)&&empty($lastNameErr)&&empty($sujetErr)&&empty($userEmailErr)&&empty($userPhoneNumberErr)&&empty($userMessageErr)&&empty($fileErr)) {
+      $retour = "Merci pour votre suggestion !";
+  }
 }
 
 
@@ -119,8 +109,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         
         <!-- Article dans l'index -->
 
-        <h1>Merci pour votre suggestion !</h1>
-
+        <?php
+            if ($retour == "") {
+              echo "<h1> $firstNameErr <br> $lastNameErr <br> $userEmailErr <br> $sujetErr <br> $userPhoneNumberErr <br> $userMessageErr <br> $fileErr </h1>";  
+            } else {
+              echo "<h1> $retour </h1>"; 
+            }
+        ?>
+        
         <section class="lastArticle container" >
 
             <a class="returnnav" id="backindex" href="index.php">Retour à la page d'accueil</a>

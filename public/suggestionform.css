@@ -8,7 +8,7 @@ h1 {
 form {
     width: 80%;
     height: 60%;
-    display: block;
+    display: Flex;
     overflow: hidden;
     border-radius: 10px;
     background-color: white;
@@ -17,6 +17,7 @@ form {
     box-shadow: 0px 0px 15px grey;
     display: table;
     padding: 10px;
+    margin: 0 auto;
 }
 div.formsuggest {
     display: table-row;
@@ -26,20 +27,34 @@ label, input {
     display: table-cell;
     margin-bottom: 10px;
 }
+input, textarea {
+ 
+    /* Pour s'assurer que tous les champs texte ont la même police.
+      Par défaut, les textarea ont une police monospace */
+   font: 1em sans-serif;
+   /* Pour que tous les champs texte aient la même dimension */
+   width: 300px;
+   box-sizing: border-box;
+ 
+   /* Pour harmoniser le look & feel des bordures des champs texte */
+   border: 1px solid #999;
+}
 button a {
     text-decoration:none;
 }
 label {
     padding-right: 10px;
     text-align: right;
+    display: inline-block;
 }
 .lastArticle {
     display: flex;
     flex-flow: column;
     justify-content: center;
-    align-items: center;
+    align-items: baseline;
     height: 100%;
     width: 100%;
+    margin-top: 4em;
 }
 .container {
     width: 100%;
@@ -48,7 +63,7 @@ label {
     .lastArticle {
         display: flex;
         justify-content: center; 
-        align-items: center;
+        align-items: baseline;
         flex-flow: row wrap;
         height: 1500px;
     }

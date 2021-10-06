@@ -27,6 +27,8 @@
 
         <h1>Faite une suggestion d'article</h1>
 
+        <section class="lastArticle container" >
+
         <form class="formsuggest" action="/validform.php" method="POST" enctype="multipart/form-data">
 
                 <div class="firstname formsuggest">
@@ -55,7 +57,7 @@
                 </div>
                 <div class="contentsuggest formsuggest">
                         <label for="contentsuggest">Texte suggeré : </label>
-                        <textarea name="firstname" id="firstname" maxlength = 250 required></textarea>
+                        <textarea name="contentsuggest" id="contentsuggest" style="height: 330px; width: 581px" maxlength = 250 required></textarea>
                 </div>
                 <div class="photosuggest formsuggest">
                         <label for="photosuggest">Photo pour accompagner l'article : </label>
@@ -66,6 +68,8 @@
                 </div>
 
         </form>
+
+        </section>
 
         <!-- Contiendras les informations de production et le chatbot!-->
 
