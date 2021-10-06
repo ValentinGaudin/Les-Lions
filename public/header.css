@@ -46,6 +46,7 @@ nav{
 }
 .nav-links li{
     list-style: none;
+    text-align: center;
 }
 .nav-links a {
     color:white;
