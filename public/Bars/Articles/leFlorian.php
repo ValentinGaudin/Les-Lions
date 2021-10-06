@@ -38,25 +38,20 @@
             <p>Date de parution : 01/09/2021</p>
         </div>
     </div>
-<div class="placement">
-    <div class='article_contenu'>
-        <p>Situé dans le vieux Lyon, inspiré du célèbre café de la place Saint-Marc de Venise, vous trouverez un large choix de cocktail et de spiritueux d’exception. Dans une ambiance tamisée et jazz, vous trouverez un personnel au petit soin et très professionnel.</p>
-        <p>Informations pratiques : situé 4 Place de la Baleine, 69005 LYON, l’accès se fait via le métro D à la station Vieux Lyon. L’établissement vous accueil tous les jours de 17h à 2h du Lundi au mercredi, jusqu’à 3h les jeudi et vendredi et les week-end de 14h à 3h le samedi et jusqu’à 2h les dimanche.</p>    
-        <br>
-        
-    </div>
-    
+    <div class="placement">
+        <div class='article_contenu'>
+            <p>Situé dans le vieux Lyon, inspiré du célèbre café de la place Saint-Marc de Venise, vous trouverez un large choix de cocktail et de spiritueux d’exception. Dans une ambiance tamisée et jazz, vous trouverez un personnel au petit soin et très professionnel.</p>
+            <p>Informations pratiques : situé 4 Place de la Baleine, 69005 LYON, l’accès se fait via le métro D à la station Vieux Lyon. L’établissement vous accueil tous les jours de 17h à 2h du Lundi au mercredi, jusqu’à 3h les jeudi et vendredi et les week-end de 14h à 3h le samedi et jusqu’à 2h les dimanche.</p>    
+            <br>
+        </div>
+        <div class="mapSM">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.395266644058!2d4.82628211547328!3d45.76326822145876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebaabbf19c8d%3A0x577886f950e60b81!2sBar%20Le%20Florian%2C%20Cocktails%20%26%20Spirits!5e0!3m2!1sen!2sfr!4v1633522504675!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
 
+        <div class="mapMD">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.395266644058!2d4.82628211547328!3d45.76326822145876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebaabbf19c8d%3A0x577886f950e60b81!2sBar%20Le%20Florian%2C%20Cocktails%20%26%20Spirits!5e0!3m2!1sen!2sfr!4v1633522504675!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
     </div>
-    <div class="mapSM">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.395266644058!2d4.82628211547328!3d45.76326822145876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebaabbf19c8d%3A0x577886f950e60b81!2sBar%20Le%20Florian%2C%20Cocktails%20%26%20Spirits!5e0!3m2!1sen!2sfr!4v1633522504675!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    </div>
-
-    <div class="mapMD">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.395266644058!2d4.82628211547328!3d45.76326822145876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebaabbf19c8d%3A0x577886f950e60b81!2sBar%20Le%20Florian%2C%20Cocktails%20%26%20Spirits!5e0!3m2!1sen!2sfr!4v1633522504675!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    </div>
-    
-</div>
     <div class='article_notation'>
 
         <p>Vous avez aimez l'article ? Rajoutez lui une étoile !</p>
