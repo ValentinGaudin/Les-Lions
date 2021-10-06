@@ -25,7 +25,7 @@
         
         <!-- Article dans l'index -->
 
-        <h1>Faite une suggestion d'article</h1>
+        <h1>Faites une suggestion d'article</h1>
 
         <section class="lastArticle container" >
 

@@ -49,9 +49,7 @@
                                                         Des milliers d’essences végétales, une centaine d’espèces animales et un patrimoine inestimable. Mais s’est-on déjà demandé d’où venait son nom ? 
                                                 
                                         </p>
-                                        <div class='article_notation'>
-                                                <img src="/images/red-star.png">
-                                        </div>
+
                                 
                         </article>
                 
@@ -73,9 +71,7 @@
                                         <h2><a href="Bars/Articles/leFlorian.php">Le bar Le Florian</a></h2>
                                         
                                         <p class="description positioning">Situé dans le vieux Lyon, inspiré du célèbre café de la place Saint-Marc de Venise, vous trouverez un large choix de cocktail et de spiritueux d’exception. Dans une ambiance tamisée et jazz, vous trouverez un personnel au petit soin et très professionnel.</p>
-                                        <div class='article_notation'>
-                                                <img src="/images/red-star.png">
-                                        </div>
+
                                 
                         </article>
                 
