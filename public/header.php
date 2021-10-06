@@ -1,7 +1,7 @@
 <header>
     <div class="banniere">
         <section class="bann">
-            <p>Chez les Lions,on regroupe toutes les meilleures infos. </p>
+            <p>Chez les Lions, on regroupe les meilleures infos. </p>
         </section>
         <nav>
             <div class="logo">
@@ -24,6 +24,9 @@
                 </li>
                 <li>
                     <a href="/Culture/culture.php">Culture</a>
+                </li>
+                <li>
+                    <a href="/suggestionform.php">Suggerer un article</a>
                 </li>
             </ul>
             <div class="burger">

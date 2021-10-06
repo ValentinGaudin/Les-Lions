@@ -8,16 +8,16 @@
                 </div>
         <div class="choices">
             <div class="button">
-                <button id="sport" onclick= "sportFunction()" type="button">Faire du sport</button>
+                <button id="sport" type="button">Faire du sport</button>
             </div>
             <div class="button">
-                <button id="culture" onclick= "cultureFunction()" type="button">Faire du tourisme/découvrir</button>
+                <button id="culture" type="button">Faire du tourisme/découvrir</button>
             </div>
             <div class="button">
-                <button id="bar" onclick= "barFunction()" type="button">Aller boire un verre</button>
+                <button id="bar" type="button">Aller boire un verre</button>
             </div>
             <div class="button">
-                <button id="restaurant" onclick= "restaurantFunction()" type="button">Trouver un restaurant</button>
+                <button id="restaurant" type="button">Trouver un restaurant</button>
             </div>
         </div>
     </div>
@@ -26,10 +26,11 @@
                 <p>Comment souhaitez vous faire du Sport</p>
             </div>
             <div class="button">
-                <button id="interior" onclick= "interiorFunction()" type="button">En intérieur</button>
+                <button id="interior" type="button">En intérieur</button>
             </div>
             <div class="button">
                 <button id="exterior" onclick= "exteriorFunction()" type="button">En extérieur</button>
+
             </div>
     </div>
 
@@ -38,12 +39,50 @@
                 <p>Que souhaitez vous visiter?</p>
             </div>
             <div class="button">
-                <button id="interior" onclick= "interiorFunction()" type="button">En intérieur</button>
+                <button id="églises" type="button">Une église</button>
             </div>
             <div class="button">
-                <button class="exterior" onclick= "exteriorFunction()" type="button">A l'extérieur</button>
+                <button id="musée" type="button">Un musée</button>
             </div>
     </div>
 
-    <script src="script/footer.js"></script>
+    <div class="choicesBar">
+            <div class="Question">
+                <p>A quel moment ?</p>
+            </div>
+            <div class="button">
+                <button id="barJour" type="button">En journée</button>
+            </div>
+            <div class="button">
+                <button id="barNuit" type="button">En soirée</button>
+            </div>
+    </div>
+
+    <div class="choiceRestaurant">
+            <div class="Question">
+                <p>Quel genre de Restaurant</p>
+            </div>
+            <div class="button">
+                <button id="gastro" type="button">Gastronomique</button>
+            </div>
+            <div class="button">
+                <button id="classic" type="button">Bouchon Lyonnais</button>
+            </div>
+            <div class="button">
+                <button id="pizza" type="button">Pizzaria</button>
+            </div>
+            <div class="button">
+                <button id="street" type="button">Street-Food</button>
+            </div>
+
+    </div>
+
+
+    
+    <div class= "authors">
+        <p>Valentin Gaudin</p><p>Matthieu Chabot</p><p>Jean-Christophe RIOTTE</p><p>Manuela Querier</p> 
+    </div>
+
+<script src="script/footer.js"></script>
+
 </footer>

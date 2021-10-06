@@ -6,6 +6,7 @@
 body {
     overflow-x: hidden;
 }
+/* ---------------- Just Style for CSS Navigation Bar ---------------- */
 nav{
     display: flex;
     justify-content: space-around;
@@ -36,7 +37,6 @@ nav{
     height: 40px auto;
     padding: 5px;
     overflow-x: auto;
-
 }
 .nav-links {
     display: flex;
@@ -54,19 +54,20 @@ nav{
     font-weight: lighter;
     font-size: 15px;
 }
-/* more decoration maybe
+/* ----- more decoration maybe
 .nav-links a:hover{
     color: white;
     border: 2px solid white;
     padding: 5px 5px;
     text-decoration: none;
-} */
+} --------- */
 .burger {
     display: none;
     cursor: pointer;
 }
-@media screen and (max-width: 768px) {
 
+/* ---------------- Media Querries ---------------- */
+@media screen and (max-width: 768px) {
     .nav-links{
         position: absolute;
         left: 0px;
@@ -100,6 +101,7 @@ nav{
         display: block;
     }
 }
+/* ---------------- What He do hen i click ---------------- */
 .nav-active{
     transform: translateX(0%);
 }

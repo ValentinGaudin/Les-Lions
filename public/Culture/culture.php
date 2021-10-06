@@ -24,7 +24,7 @@
 
         <h1>Lieux culturels et Monuments à Lyon</h1>
 
-<section class="sectionArticles container">
+<section class="sectionArticles">
 
     <article class="fourviere positioningImage" >
         <h2><a href="Articles/fourviere.php">Basilique de Fourvière</a></h2>
