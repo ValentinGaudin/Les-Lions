@@ -84,7 +84,7 @@ bar.addEventListener('click', function chatbotChoixBar(){
     })
     
 })
-choicesRestaurant.addEventListener('click', function chatbotChoixRestaurant(){
+restaurant.addEventListener('click', function chatbotChoixRestaurant(){
     firstChoice.style.display = "none";
     choicesRestaurant.style.display = "block";
     gastro.addEventListener('click', function chatbotChoixGastro(){
