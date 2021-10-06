@@ -1,5 +1,6 @@
 
 <footer>
+<div class= "chabotcontain">    
 <div class="Chatbot">
     <div class="msg-header">Besoin d'aide ?</div>
     <div id="firstChoice">
@@ -79,6 +80,7 @@
     <div class= "authors">
         <p>Valentin Gaudin</p><p>Matthieu Chabot</p><p>Jean-Christophe RIOTTE</p><p>Manuela Querier</p> 
     </div>
+</div>
 </div>
 <script src="script/footer.js"></script>
 
