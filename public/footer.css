@@ -1,12 +1,15 @@
 #firstChoice {
-    display: flex;
+    display: block;
 }
 #choicesSport {
     display: none;
 }
-.choicesCulture {
+#choicesCulture {
     display: none;
 }
-.choicesBar {
+#choicesBar {
+    display: none;
+}
+#choicesRestaurant {
     display: none;
 }
