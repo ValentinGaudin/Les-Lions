@@ -47,7 +47,7 @@
     <div class='article_notation'>
 
         <p>Vous avez aimez l'article ? Rajoutez lui une étoile !</p>
-        <img src="/images/red-star.png">
+        <img id="star" src="/images/star-grey.png" onclick="this.src='/images/star-yellow.png'">
     </div>
 
 </div>

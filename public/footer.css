@@ -1,0 +1,12 @@
+.choices {
+    display: flex;
+}
+.choicesSport {
+    display: none;
+}
+.choicesCulture {
+    display: none;
+}
+.choicesBar {
+    display: none;
+}

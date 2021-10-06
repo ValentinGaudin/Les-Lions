@@ -1,6 +1,3 @@
-<!-- SQUELETTE
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,9 +9,7 @@
 
         <title>The Lions</title>
 
-        <link rel="stylesheet" type="text/css" href="/articleStyle.css">
-        <link rel="stylesheet" type="text/css" href="/articlePageStyle.css"> 
-        <link rel="stylesheet" type="text/css" href="/header.css">
+        <link rel="stylesheet" type="text/css" href="/footer.css">
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -27,26 +22,6 @@
 
 <body>
 
-<?php // include ("../../header.php");?>
-<div class='article_details'>
+<?php include("footer.php"); ?>
 
-        <h1 class="article_titre">Titre de l'article</h1>
-
-    <div class='article_contenu'>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima porro perferendis sequi dicta deserunt, impedit ipsam quas libero. Optio perferendis molestias odit ipsam, quo natus. Laboriosam ratione dolor minima odio ullam repudiandae expedita voluptatibus perferendis eos, cum at, aliquid magnam quidem mollitia. Sit voluptatum eos, odit eligendi facere deleniti autem?</p>    
-        <br>
-        
-    </div>
-
-    <div class='article_notation'>
-
-        <p>Vous avez aimez l'article ? Rajoutez lui une étoile !</p>
-        <img src="/images/red-star.png">
-    </div>
-
-</div>
-<section class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></section>
 </body>
-
-
--->

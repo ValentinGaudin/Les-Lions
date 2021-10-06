@@ -158,6 +158,10 @@ article {
     height:50px;
     margin-top: 20px;
 }
+.ajoutStarNotation {
+    font-size: 1.5em;
+    color: rgb(196,196,196);
+}
 #bouton{
     width: 100%;
 }
