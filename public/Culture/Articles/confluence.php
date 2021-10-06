@@ -31,7 +31,9 @@
         <h1 class="article_titre confluence">Musée des Confluences</h1>
         <div class='tagetdate'>
         <div class='tag'>
-            <p>Catégorie : <a href='../culture.php' ><b>#Culture</b></a></p>
+
+            <p>Catégorie :<br> <a href='../culture.php' ><b>#Culture</b></a></p>
+
         </div>
         <div class='dateparu'>
             <p>Date de parution : <b>01/10/2021</b></p>
@@ -48,10 +50,12 @@
     <div class='article_notation'>
 
         <p>Vous avez aimez l'article ? Rajoutez lui une étoile !</p>
-        <img src="/images/red-star.png">
+        <img id="star" src="/images/star-grey.png" onclick="this.src='/images/star-yellow.png'">
+        <p class="ajoutStarNotation">+1</p>
     </div>
 
 </div>
 <div class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></div>
-
+<script src="/script/star.js"></script>
 </body>
+

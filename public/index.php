@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>The Lions</title>
+        <title>Page d'Accueil - The Lions</title>
         <link rel="stylesheet" type="text/css" href="indexStyle.css">
         <link rel="stylesheet" type="text/css" href="/header.css">
 
@@ -33,10 +33,12 @@
                                 
                                 <h2> <a href="/Restaurants/Articles/le_boeuf_dArgent.php">Le Boeuf d'Argent</a></h2>
                                 <p class="description positioning" >Situé dans le Vieux Lyon, Le Boeuf d’Argent et son chef Lyonnais renommé : Mr Giraud, Henri Balland proposent une cuisine maison de qualité dans un cadre intimiste et chaleureux.
+
                                 </p>
                         </article>
                 
                         <article class="parcTeteDor positioningImage" >
+
                                 <h2> <a href="Sports/Articles/parctetedor.php">Le parc de la tête d'or</a></h2>
                                         
                                         <p class="description positioning" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
@@ -59,6 +61,7 @@
                         </article>
                         
                 
+
                         <article class="positioningImage leFlorian"> 
                                 
                                         <h2><a href="Bars/Articles/leFlorian.php">Le bar Le Florian</a></h2>
@@ -83,8 +86,7 @@
                         <article class="fourviere positioningImage" >
                         <h2><a href="#">Fourvière</a></h2>
                                 
-                                <p class="description positioning" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum unde repudiandae nisi fugiat iure, quam alias quibusdam! Quae, distinctio nostrum?
-                                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione reiciendis sapiente, numquam tempora accusantium labore error, ea praesentium, delectus aliquid autem quos corrupti illum corporis sunt. Dolorem nihil eveniet doloremque.
+                                <p class="description positioning" >Créée à l'aube du XXème siècle en 1897, la Basilique de Fourvière a été edifiée en l'honneur et dans l'esprit de rendre grâce à la Vierge Marie.
                                 </p>
                         </article>
                 

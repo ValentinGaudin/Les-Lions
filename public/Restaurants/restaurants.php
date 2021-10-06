@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>The Lions</title>
+        <title>Restaurants - The Lions</title>
 
         <link rel="stylesheet" type="text/css" href="/articlePageStyle.css"> 
         <link rel="stylesheet" type="text/css" href="/header.css">
@@ -29,41 +29,23 @@
 
         <article class="positioningImage leBoeufDargent">
                 <h2><a href="/Restaurants/Articles/le_boeuf_dArgent.php">Le Boeuf d'Argent</a></h2>
-        
-                
                 <p class="description">Situé dans le Vieux Lyon, Le Boeuf d’Argent et son chef Lyonnais renommé : Mr Giraud, Henri Balland proposent une cuisine maison de qualité dans un cadre intimiste et chaleureux.</p>
-                <div class='article_notation'>
-                <img src="/images/red-star.png">
-                </div>
         </article>
 
 
         <article class="positioningImage mamamia">
-                        <h2><a href="/Restaurants/Articles/Mamamia.php">MamaMia Pizza</a></h2>
-                
+                <h2><a href="/Restaurants/Articles/Mamamia.php">MamaMia Pizza</a></h2>
                 <p class="description">Implantée depuis 2007 à Lyon, Jordan Tomas – Pizza Mamamia est aujourd’hui devenue une institution de la cuisine Italienne. Sous les ordres de Jordan Tomas, au palmarès impressionnant dans le monde des pizzaïolos, l’établissement a grandit au fil des années au point de devenir une référence dans son domaine au point d’être élue meilleure pizzeria de France en 2018 par TripAdvisor</p>
-                <div class='article_notation'>
-                <img src="/images/red-star.png">
-                </div>
         </article>
 
         <article class="positioningImage warung">
-                        <h2><a href="/Restaurants/Articles/my_little_warung.php">My Little Warung</a></h2>
-                
+                <h2><a href="/Restaurants/Articles/my_little_warung.php">My Little Warung</a></h2>
                 <p class="description">Bienvenue dans un monde de fraîcheur, de saveurs authentiques, dans une ambiance décontractée. Respirez profondément et embarquez pour un voyage… au cœur de l’Asie du sud-est.</p>
-                <div class='article_notation'>
-                <img src="/images/red-star.png">
-                </div>
-
         </article>
 
         <article class="positioningImage bistrotOrcia">
-                        <h2><a href="/Restaurants/Articles/bistrot_orcia.php">Bistrot Orcia</a></h2>
-                
+                <h2><a href="/Restaurants/Articles/bistrot_orcia.php">Bistrot Orcia</a></h2>
                 <p class="description">Bistrot Croix Rousse, à deux pas du Gros Cailloux, une équipe de passionnés vous accueille dans un cadre élégant et chaleureux où tout a été pensé  pour votre confort.</p>
-                <div class='article_notation'>
-                <img src="/images/red-star.png">
-                </div>
         </article>
 
 </section>
