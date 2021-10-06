@@ -34,6 +34,9 @@
             <p>Date de parution : 01/10/2021</p>
         </div>
     </div>
+
+    <div class="placement">
+
     <div class='article_contenu'>
         <p>
 
@@ -44,6 +47,16 @@ Pizza Mamamia, c’est le choix de produits de saisons et de qualité, l’assoc
         
     </div>
 
+
+
+    <div class="mapSM">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.636313880257!2d4.8376727154725545!3d45.7383879231269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea3b9796d809%3A0xe4a0fb11b91b38a2!2sJordan%20Tomas%20-%20Pizza%20Mamamia%20Lyon%20Gerland!5e0!3m2!1sen!2sfr!4v1633523549048!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+
+    <div class="mapMD">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2784.636313880257!2d4.8376727154725545!3d45.7383879231269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea3b9796d809%3A0xe4a0fb11b91b38a2!2sJordan%20Tomas%20-%20Pizza%20Mamamia%20Lyon%20Gerland!5e0!3m2!1sen!2sfr!4v1633523549048!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+</div>
     <div class='article_notation'>
 
         <p>Vous avez aimez l'article ? Rajoutez lui une étoile !</p>

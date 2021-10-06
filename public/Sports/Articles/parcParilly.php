@@ -37,7 +37,7 @@
             <p>Date de parution : 20/01/2021</p>
         </div>
     </div>
-
+    <div class="placement">
     <div class='article_contenu'>
         <p>Situé à l’Est de la ville de Lyon, sur les communes de Bron et de Vénissieux, il a été créé en 1937. D’une superficie de 178 hectares, il est aujourd’hui très bien desservi, notamment par la ligne de métro D et 2 lignes de tramway. Il est très bien doté en équipements sportifs avec notamment 11 terrains de football, 7 terrains de basket-ball, 2 pistes d’athlétisme, 1 terrain de rugby, 3 de handball, 1 de baseball et 1 de cricket.</p>
         <p>Un peu d’histoire  l’idée de créer un autre poumon vert pour la ville de Lyon est né en 1926. La commune de Bron est choisie alors que la priorité pour cette dernière est la création de logement pour les ouvriers de la commune. En 1937, le conseil départemental souhaite lancer un grand projet avec de gros équipement (notamment une patinoire et un centre aquatique) mais la seconde guerre mondiale mais à mal ce projet qui devait faire du parc de Parilly le plus beau parc de France. Enfin c’est en 1965 qu’est inauguré l’hippodrome de Parilly, hippodrome qui propose aujourd’hui environ 66 manifestations par an.</p>
@@ -48,6 +48,15 @@
         
     </div>
 
+    <div class="mapSM">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2785.3445941359714!2d4.895578315472092!3d45.72418372407902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4c22bee7bff6b%3A0x22b5b691f0a98cbe!2sParc%20de%20Parilly!5e0!3m2!1sen!2sfr!4v1633524128671!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+
+    <div class="mapMD">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2785.3445941359714!2d4.895578315472092!3d45.72418372407902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4c22bee7bff6b%3A0x22b5b691f0a98cbe!2sParc%20de%20Parilly!5e0!3m2!1sen!2sfr!4v1633524128671!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+    </div>
+</div>
     <div class='article_notation'>
 
         <p>Vous avez aimez l'article ? Rajoutez lui une étoile !</p>

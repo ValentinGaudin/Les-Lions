@@ -37,7 +37,7 @@
             <p>Date de parution : 01/10/2021</p>
         </div>
     </div>
-
+<div class="placement">
     <div class='article_contenu'>
         <p>
 
@@ -45,6 +45,16 @@ Bistrot Croix Rousse, à deux pas du Gros Cailloux, une équipe de passionnés v
 La cuisine du bistrot Orcia, élaborée à partir de produits frais et locaux se décline au fil des saisons en menu du marché le midi, en petits plats festifs à partager le soir et en déjeuner convivial le dimanche.<br>
 Pour accompagner le tout, un large panel de vins de caractère, de bières belges, de sodas et jus de fruits artisanaux a été rigoureusement sélectionné pour le plus grand plaisir de tous.</p>    
     </div>
+
+
+    <div class="mapSM">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2782.7806017689477!2d4.832935815473643!3d45.77558702063262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4eae309baaaab%3A0x1d83d46c13e7f217!2sBistrot%20Orcia%20-%20Croix%20Rousse!5e0!3m2!1sen!2sfr!4v1633523299430!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+
+    <div class="mapMD">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2782.7806017689477!2d4.832935815473643!3d45.77558702063262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4eae309baaaab%3A0x1d83d46c13e7f217!2sBistrot%20Orcia%20-%20Croix%20Rousse!5e0!3m2!1sen!2sfr!4v1633523299430!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+</div>
 
     <div class='article_notation'>
 

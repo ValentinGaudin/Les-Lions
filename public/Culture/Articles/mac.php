@@ -29,14 +29,17 @@
 <div class='article_details'>
 
         <h1 class="article_titre mac">Musée d'Art Contemporain</h1>
-        <div class='tagetdate'>
-        <div class='tag'>
+            <div class='tagetdate'>
+                <div class='tag'>
             <p>Catégorie : <br><a href='../culture.php' ><b>#Culture</b></a></p>
         </div>
+
         <div class='dateparu'>
-            <p>Date de parution : <b>01/10/2021</b></p>
+                <p>Date de parution : <b>01/10/2021</b></p>
+            </div>
         </div>
-        </div>
+
+        <div class="placement">
     <div class='article_contenu'>
         <p>Faisant partie de l'ancien Palais de la foire de Lyon, le Musée d'art contemporain de Lyon, souvent dénommé "MAC" est un musée du 6ème arrondissement consacré à l'art contemporain.<br>
         Actuellement, le MAC est également une partie du Musée des Beaux Arts de Lyon, vous pourrez avoir plus d'informations dans son article dédié dans notre site.<br>
@@ -45,6 +48,14 @@
         
     </div>
 
+    <div class="mapSM">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2782.34979865548!2d4.850185015473929!3d45.7842194200537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4eac1005dddef%3A0x38e1731b252bc392!2sMus%C3%A9e%20d&#39;art%20contemporain%20de%20Lyon!5e0!3m2!1sen!2sfr!4v1633522986431!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+
+    <div class="mapMD">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2782.34979865548!2d4.850185015473929!3d45.7842194200537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4eac1005dddef%3A0x38e1731b252bc392!2sMus%C3%A9e%20d&#39;art%20contemporain%20de%20Lyon!5e0!3m2!1sen!2sfr!4v1633522986431!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+</div>
     <div class='article_notation'>
 
         <p>Vous avez aimez l'article ? Rajoutez lui une étoile !</p>

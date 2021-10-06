@@ -24,12 +24,12 @@
 
         <h1>Lieux culturels et Monuments à Lyon</h1>
 
-<section class="sectionArticles container">
+<section class="sectionArticles">
 
     <article class="fourviere positioningImage" >
         <h2><a href="Articles/fourviere.php">Basilique de Fourvière</h2>
             <img class="imageArticle">
-            <p class="description">Créée à l'aube du XXème siècle en 1897, la Basilique de Fourvière a été edifiée en l'honneur et dans l'esprit de rendre grâce à la Vierge Marie.</p>
+            <p class="description positioning">Créée à l'aube du XXème siècle en 1897, la Basilique de Fourvière a été edifiée en l'honneur et dans l'esprit de rendre grâce à la Vierge Marie.</p>
             </a>
             <p>Une étoile</p>
     </article>
@@ -37,7 +37,7 @@
     <article class="mac positioningImage">
         <h2><a href="Articles/mac.php">Musée d'Art Contemporain</h2>
             <img class="imageArticle">
-            <p class="description">Faisant partie de l'ancien Palais de la foire de Lyon, le Musée d'art contemporain de Lyon, souvent dénommé "MAC" est un musée du 6ème arrondissement consacré à l'art contemporain.</p>
+            <p class="description positioning">Faisant partie de l'ancien Palais de la foire de Lyon, le Musée d'art contemporain de Lyon, souvent dénommé "MAC" est un musée du 6ème arrondissement consacré à l'art contemporain.</p>
             </a>
             <p>Une étoile</p>
     </article>
@@ -45,7 +45,7 @@
     <article class="mba positioningImage">
         <h2><a href="Articles/mba.php">Musée des Beaux-Arts</h2>
             <img class="imageArticle">
-            <p class="description">À la base une abbaye aux abords de la Révolution frnçaise, le musée des Beaux Arts actuel de Lyon à reçu ses premier tableaux en 1803 lorsque le Louvre en offre 110 au Musée de Lyon.</p>
+            <p class="description positioning">À la base une abbaye aux abords de la Révolution frnçaise, le musée des Beaux Arts actuel de Lyon à reçu ses premier tableaux en 1803 lorsque le Louvre en offre 110 au Musée de Lyon.</p>
             </a>
             <p>Une étoile</p>
     </article>
@@ -53,7 +53,7 @@
     <article class="confluence positioningImage">
         <h2><a href="Articles/confluence.php">Musée des Confluences</h2>
             <img class="imageArticle">
-            <p class="description">Le musée des Confluences est un musée à part entière, premièrement avec sa position géographique, se situant au confluent du Rhône et de la Saône.</p>
+            <p class="description positioning">Le musée des Confluences est un musée à part entière, premièrement avec sa position géographique, se situant au confluent du Rhône et de la Saône.</p>
             </a>
             <p>note</p>
     </article>

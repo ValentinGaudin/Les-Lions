@@ -40,6 +40,8 @@
         </div>
     </div>
 
+    <div class="placement">
+
     <div class='article_contenu'>
         <p>Bienvenue dans un monde de fraîcheur, de saveurs authentiques, dans une ambiance décontractée. Respirez profondément et embarquez pour un voyage… au cœur de l’Asie du sud-est.<br>
         My Little Warung forme la communauté de ses clients, de ses collaborateurs et de ses franchisés, les « warungers »<br>
@@ -47,7 +49,14 @@
         <br>
         
     </div>
+    <div class="mapSM">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.367621762557!2d4.855672815473264!3d45.76382232142167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebcdd89133ef%3A0xf4a9e02ad896e1c2!2sMy%20Little%20Warung%20Lyon%20Part-Dieu!5e0!3m2!1sen!2sfr!4v1633524033303!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
 
+    <div class="mapMD">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.367621762557!2d4.855672815473264!3d45.76382232142167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebcdd89133ef%3A0xf4a9e02ad896e1c2!2sMy%20Little%20Warung%20Lyon%20Part-Dieu!5e0!3m2!1sen!2sfr!4v1633524033303!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+</div>
     <div class='article_notation'>
 
         <p>Vous avez aimez l'article ? Rajoutez lui une étoile !</p>
