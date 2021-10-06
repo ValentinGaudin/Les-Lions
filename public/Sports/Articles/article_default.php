@@ -1,9 +1,3 @@
-<!---------- SQUELETTE 
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -24,17 +18,13 @@
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100&display=swap" rel="stylesheet">
         <?php
         // set the default timezone to use.
-        // date_default_timezone_set('UTC');
+        date_default_timezone_set('UTC');
         ?>
 </head>
+
 <body>
------>
 <!-- Barre de navgiation & bannière -->
-
- <?php  // include ("../../header.php");?> */
-
-<!-------
-
+<?php include ("../../header.php");?>
 <div class='article_details'>
 
     <h1 class="article_titre">Titre de l'article</h1>
@@ -63,5 +53,3 @@
 </div>
 <div class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></div>
 </body>
-
------>

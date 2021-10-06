@@ -25,6 +25,9 @@
                 <li>
                     <a href="/Culture/culture.php">Culture</a>
                 </li>
+                <li>
+                    <a href="/suggestionform.php">Suggerer un article</a>
+                </li>
             </ul>
             <div class="burger">
                 <div class="line1"></div>

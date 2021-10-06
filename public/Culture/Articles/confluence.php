@@ -59,10 +59,12 @@
     <div class='article_notation'>
 
         <p>Vous avez aimez l'article ? Rajoutez lui une étoile !</p>
-        <img src="/images/red-star.png">
+        <img id="star" src="/images/star-grey.png" onclick="this.src='/images/star-yellow.png'">
+        <p class="ajoutStarNotation">+1</p>
     </div>
 
 </div>
 <div class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></div>
-
+<script src="/script/star.js"></script>
 </body>
+
