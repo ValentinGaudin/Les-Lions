@@ -35,7 +35,7 @@ h1 {
 .article_notation{
     background-color: rgb(196,196,196);
     width: 80%;
-    height: 150px;
+    height: 180px;
     margin: 20px;
     display: flex;
     flex-direction: column;
@@ -106,6 +106,10 @@ h1 {
 }
 .confluence {
     background-image: url("/images/confluence.jpg");
+}
+.ajoutStarNotation {
+    font-size: 1.5em;
+    color: rgb(196,196,196);
 }
 #bouton{
     width: 100%;
