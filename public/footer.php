@@ -2,7 +2,7 @@
 <footer>
 <div class="Chatbot">
     <div class="msg-header">Besoin d'aide ?</div>
-    <div class="firstChoice">
+    <div id="firstChoice">
                 <div class="Question">
                     <p>Que voulez vous faire à Lyon?</p>
                 </div>
@@ -21,7 +21,7 @@
             </div>
         </div>
     </div>
-    <div class="choicesSport">
+    <div id="choicesSport">
             <div class="Question">
                 <p>Comment souhaitez vous faire du Sport</p>
             </div>
@@ -29,7 +29,7 @@
                 <button id="interior" onclick= "interiorFunction()" type="button">En intérieur</button>
             </div>
             <div class="button">
-                <button class="exterior" onclick= "exteriorFunction()" type="button">A l'extérieur</button>
+                <button id="exterior" onclick= "exteriorFunction()" type="button">En extérieur</button>
             </div>
     </div>
 

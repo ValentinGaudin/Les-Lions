@@ -1,7 +1,7 @@
-.choices {
+#firstChoice {
     display: flex;
 }
-.choicesSport {
+#choicesSport {
     display: none;
 }
 .choicesCulture {
