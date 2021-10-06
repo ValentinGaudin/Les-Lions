@@ -47,7 +47,6 @@
     </div>
     
 
-    </div>
     <div class="mapSM">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.395266644058!2d4.82628211547328!3d45.76326822145876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ebaabbf19c8d%3A0x577886f950e60b81!2sBar%20Le%20Florian%2C%20Cocktails%20%26%20Spirits!5e0!3m2!1sen!2sfr!4v1633522504675!5m2!1sen!2sfr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>
@@ -57,6 +56,7 @@
     </div>
     
 </div>
+
     <div class='article_notation'>
 
         <p>Vous avez aimez l'article ? Rajoutez lui une étoile !</p>
