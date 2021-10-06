@@ -5,6 +5,9 @@ h1 {
     padding-top: 10px;
     letter-spacing: 5px;
 }
+body {
+    font-family: 'Poppins', sans-serif;
+}
 form {
     width: 80%;
     height: 60%;
@@ -39,6 +42,13 @@ input, textarea {
    /* Pour harmoniser le look & feel des bordures des champs texte */
    border: 1px solid #999;
 }
+textarea {
+    /* Pour aligner les champs texte multi‑ligne avec leur étiquette */
+    vertical-align: top;
+  
+    /* Pour donner assez de place pour écrire du texte */
+    height: 5em;
+}
 button a {
     text-decoration:none;
 }
@@ -46,6 +56,7 @@ label {
     padding-right: 10px;
     text-align: right;
     display: inline-block;
+    width: 220px;
 }
 .lastArticle {
     display: flex;

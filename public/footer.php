@@ -6,7 +6,6 @@
                 <div class="Question">
                     <p>Que voulez vous faire à Lyon?</p>
                 </div>
-        <div class="choices">
             <div class="button">
                 <button id="sport" type="button">Faire du sport</button>
             </div>
@@ -19,7 +18,6 @@
             <div class="button">
                 <button id="restaurant" type="button">Trouver un restaurant</button>
             </div>
-        </div>
     </div>
     <div id="choicesSport">
             <div class="Question">
@@ -34,19 +32,18 @@
             </div>
     </div>
 
-    <div class="choicesCulture">
+    <div id="choicesCulture">
             <div class="Question">
                 <p>Que souhaitez vous visiter?</p>
             </div>
             <div class="button">
-                <button id="églises" type="button">Une église</button>
+                <button id="monument" type="button">Un Monument</button>
             </div>
             <div class="button">
-                <button id="musée" type="button">Un musée</button>
+                <button id="musee" type="button">Un musée</button>
             </div>
     </div>
-
-    <div class="choicesBar">
+    <div id="choicesBar">
             <div class="Question">
                 <p>A quel moment ?</p>
             </div>
@@ -58,7 +55,7 @@
             </div>
     </div>
 
-    <div class="choiceRestaurant">
+    <div id="choicesRestaurant">
             <div class="Question">
                 <p>Quel genre de Restaurant</p>
             </div>

@@ -1,3 +1,4 @@
+
 .Chatbot{
     display: flex;
     flex-direction:column;
@@ -17,15 +18,19 @@
     font-size: 1.5em;
     font-weight: bold;
 }
+
 #firstChoice {
     display: block;
 }
 #choicesSport {
     display: none;
 }
-.choicesCulture {
+#choicesCulture {
     display: none;
 }
-.choicesBar {
+#choicesBar {
+    display: none;
+}
+#choicesRestaurant {
     display: none;
 }
