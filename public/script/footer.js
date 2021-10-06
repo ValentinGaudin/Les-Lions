@@ -34,7 +34,7 @@ sport.addEventListener('click', function chatbotChoixSport(){
         firstChoice.style.display = "none";
         choicesSport.style.display = "block";
         interior.addEventListener('click', function chatbotChoixInterior(){
-            location.href="Sports/Articles/climbUp.php";
+            location.href="http://localhost:8000/Sports/Articles/climbUp.php";
         });
         exterior.addEventListener('click', function chatbotChoixExterior(){
             exteriorUrl = new Array;
@@ -50,7 +50,7 @@ culture.addEventListener('click', function chatbotChoixCulture(){
     firstChoice.style.display = "none";
     choicesCulture.style.display = "block";
     monument.addEventListener('click', function chatbotChoixMonument(){
-        location.href="Culture/Articles/fourviere.php";
+        location.href="http://localhost:8000/Culture/Articles/fourviere.php";
     });
     musee.addEventListener('click', function chatbotChoixMusee(){
         museeUrl = new Array;
