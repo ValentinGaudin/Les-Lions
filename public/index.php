@@ -8,7 +8,8 @@
         <title>Page d'Accueil - The Lions</title>
         <link rel="stylesheet" type="text/css" href="indexStyle.css">
         <link rel="stylesheet" type="text/css" href="/header.css">
-
+        <link rel="stylesheet" type="text/css" href="/footer.css">
+        
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100&display=swap" rel="stylesheet">
@@ -106,7 +107,7 @@
 
 
         <div class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></div>
-
+        <?php include("footer.php"); ?>
 </body>
 
 </html>

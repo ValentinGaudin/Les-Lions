@@ -82,7 +82,7 @@
     <div class= "authors">
         <p>Valentin Gaudin</p><p>Matthieu Chabot</p><p>Jean-Christophe RIOTTE</p><p>Manuela Querier</p> 
     </div>
-
+</div>
 <script src="script/footer.js"></script>
 
 </footer>

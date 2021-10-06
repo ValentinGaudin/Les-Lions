@@ -9,6 +9,7 @@
         <link rel="stylesheet" type="text/css" href="/articleStyle.css">
         <link rel="stylesheet" type="text/css" href="/articlePageStyle.css"> 
         <link rel="stylesheet" type="text/css" href="/header.css">
+        <link rel="stylesheet" type="text/css" href="/footer.css">
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -67,4 +68,5 @@ Pizza Mamamia, c’est le choix de produits de saisons et de qualité, l’assoc
 </div>
 <div class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></div>
 <script src="/script/star.js"></script>
+<?php include("footer.php"); ?>
 </body>
