@@ -5,6 +5,9 @@ h1 {
     padding-top: 10px;
     letter-spacing: 5px;
 }
+body {
+    font-family: 'Poppins', sans-serif;
+}
 form {
     width: 80%;
     height: 60%;
