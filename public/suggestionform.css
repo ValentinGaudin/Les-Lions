@@ -11,23 +11,18 @@ body {
 form {
     width: 80%;
     height: 60%;
-    display: Flex;
-    overflow: hidden;
+    display: block;
     border-radius: 10px;
     background-color: white;
-    margin: 1em;
     text-align: center;
     box-shadow: 0px 0px 15px grey;
-    display: table;
     padding: 10px;
     margin: 0 auto;
 }
 div.formsuggest {
-    display: table-row;
     margin: 10px;
 }
 label, input {
-    display: table-cell;
     margin-bottom: 10px;
 }
 input, textarea {
@@ -36,7 +31,7 @@ input, textarea {
       Par défaut, les textarea ont une police monospace */
    font: 1em sans-serif;
    /* Pour que tous les champs texte aient la même dimension */
-   width: 300px;
+   width: 70%;
    box-sizing: border-box;
  
    /* Pour harmoniser le look & feel des bordures des champs texte */
@@ -47,16 +42,15 @@ textarea {
     vertical-align: top;
   
     /* Pour donner assez de place pour écrire du texte */
-    height: 5em;
+    height: 10em;
 }
 button a {
     text-decoration:none;
 }
 label {
-    padding-right: 10px;
-    text-align: right;
+    text-align: center;
     display: inline-block;
-    width: 220px;
+    width: 80%;
 }
 .lastArticle {
     display: flex;
@@ -71,6 +65,14 @@ label {
     width: 100%;
 }
 @media screen and (min-width:1230px){
+    form{
+        display: flex;
+        flex-direction: column;
+    }
+    label {
+        padding-right: 10px;
+        text-align: center;
+    }
     .lastArticle {
         display: flex;
         justify-content: center; 
