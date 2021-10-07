@@ -108,7 +108,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <?php include("header.php"); ?>
         
         <!-- Article dans l'index -->
-        <section class="lastArticle container" >
+        <section class="container thanksandreturn" >
           <div class="thanks">
             <?php
               if ($retour == "") {
