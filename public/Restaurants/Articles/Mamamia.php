@@ -69,5 +69,4 @@ Pizza Mamamia, c’est le choix de produits de saisons et de qualité, l’assoc
 <div class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></div>
 <script src="/script/star.js"></script>
 <?php include("../../footer.php"); ?>
-<script src="/script/footer.js"></script>
 </body>

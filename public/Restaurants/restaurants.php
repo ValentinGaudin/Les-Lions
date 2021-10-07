@@ -52,6 +52,5 @@
 </section>
 <div class="div-bouton-up"><div class="bouton-up"><a href="#top"><img id="bouton" src="/images/fleche-bouton-up.png" alt="up button"></a></div></div>
 <?php include("../footer.php"); ?>
-<script src="/script/footer.js"></script>
 </body>
 </html>
