@@ -26,7 +26,7 @@
         
         <!-- Article dans l'index -->
 
-        <h1> Derniers ajout des Lions.</h1>
+        <h1>Derniers articles des Lions.</h1>
 
         <section class="lastArticle" >
                 

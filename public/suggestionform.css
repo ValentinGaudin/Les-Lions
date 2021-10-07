@@ -47,7 +47,7 @@ textarea {
     vertical-align: top;
   
     /* Pour donner assez de place pour écrire du texte */
-    height: 5em;
+    height: 1em;
 }
 button a {
     text-decoration:none;
@@ -56,7 +56,7 @@ label {
     padding-right: 10px;
     text-align: right;
     display: inline-block;
-    width: 220px;
+    width: 300px;
 }
 .lastArticle {
     display: flex;
