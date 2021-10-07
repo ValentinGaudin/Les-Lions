@@ -55,7 +55,7 @@
                 
 
                 <article class="fourviere positioningImage" >
-                        <h2><a href="Culture/Articles/fourviere.php">Fourvière</a></h2>
+                        <h2><a href="Culture/Articles/fourviere.php">Basilique de Fourvière</a></h2>
                         <p class="description positioning" >Créée à l'aube du XXème siècle en 1897, la Basilique de Fourvière a été edifiée en l'honneur et dans l'esprit de rendre grâce à la Vierge Marie.</p>
                 </article>
 
