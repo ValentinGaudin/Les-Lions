@@ -33,31 +33,31 @@
 
                 <div class="firstname formsuggest">
                         <label for="firstname">Nom : </label>
-                        <input type="text" name="firstname" id="firstname" maxlength = 50 required>
+                        <input type="text" name="firstname" id="firstname" placeholder="Linus" maxlength = 50 required>
                 </div>
 
                 <div class="lastname formsuggest">
                         <label for="lastname">Prénom : </label>
-                        <input type="text" name="lastname" id="lastname" maxlength = 50 required>
+                        <input type="text" name="lastname" id="lastname" placeholder="Torvalds" maxlength = 50 required>
                 </div>
                 <div class="user_phone formsuggest">
                         <label for="user_phone">Votre numéro de téléphone : </label>
-                        <input type="tel" name="user_phone" id="user_phone" pattern="[0-9]{2} [0-9]{2} [0-9]{2} [0-9]{2} [0-9]{2}" maxlength = 14>
+                        <input type="tel" name="user_phone" id="user_phone" placeholder="* Facultatif *" pattern="[0-9]{2} [0-9]{2} [0-9]{2} [0-9]{2} [0-9]{2}" maxlength = 14>
                         <br>
                         <small>Format: 12 34 56 78 90</small>
                 </div>
                 <div class="user_mail formsuggest">
                         <label for="user_mail">Votre email : </label>
-                        <input type="email" name="user_mail" id="user_mail" required>
+                        <input type="email" name="user_mail" id="user_mail" placeholder="Linustorvalds@wild.com" required>
                 </div>
 
                 <div class="titlesuggest formsuggest">
                         <label for="titlesuggest">Titre de l'article suggeré : </label>
-                        <input type="text" name="titlesuggest" id="titlesuggest" maxlength = 50 required>
+                        <input type="text" name="titlesuggest" id="titlesuggest" placeholder="Votre titre d'article" maxlength = 50 required>
                 </div>
                 <div class="contentsuggest formsuggest">
                         <label for="contentsuggest">Texte suggeré : </label>
-                        <textarea name="contentsuggest" id="contentsuggest" maxlength = 250 required></textarea>
+                        <textarea name="contentsuggest" id="contentsuggest" placeholder="Décrivez nous le lieu et ce que vous y avez aimé ! Vous pouvez préciser votre # (#Sport,#Restaurants...ou autre!)" maxlength = 250 required></textarea>
                 </div>
                 <div class="photosuggest formsuggest">
                         <label for="photosuggest">Photo pour accompagner l'article : </label>
