@@ -82,6 +82,6 @@
     </div>
 </div>
 </div>
-<script src="script/footer.js"></script>
+<script src="/script/footer.js"></script>
 
 </footer>
