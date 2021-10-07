@@ -57,7 +57,7 @@
                 </div>
                 <div class="contentsuggest formsuggest">
                         <label for="contentsuggest">Texte suggeré : </label>
-                        <textarea name="contentsuggest" id="contentsuggest" style="height: 300px; width: 581px" maxlength = 250 required></textarea>
+                        <textarea name="contentsuggest" id="contentsuggest" maxlength = 250 required></textarea>
                 </div>
                 <div class="photosuggest formsuggest">
                         <label for="photosuggest">Photo pour accompagner l'article : </label>

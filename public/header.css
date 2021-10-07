@@ -42,7 +42,7 @@ nav{
     display: flex;
     justify-content: space-around;
     color: white;
-    width: 50%;
+    width: 70%;
 }
 .nav-links li{
     list-style: none;
@@ -78,9 +78,9 @@ nav{
         color: white;
         display: flex;
         flex-direction: column;
-        align-items: center;
+        /* align-items: center; */
         font-size: 15px;
-        width: 35%;
+        width: 45%;
         font-weight: 900;
         transform: translateX(-100%);
         transition: transform 0.7s ease-in;
@@ -88,6 +88,7 @@ nav{
     .nav-links li{
         opacity: 100;
         color: white;
+
     }
     .nav-links a{
         color: white;

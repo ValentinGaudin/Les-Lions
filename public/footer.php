@@ -67,7 +67,7 @@
                 <button id="classic" type="button">Bouchon Lyonnais</button>
             </div>
             <div class="button">
-                <button id="pizza" type="button">Pizzaria</button>
+                <button id="pizza" type="button">Pizzeria</button>
             </div>
             <div class="button">
                 <button id="street" type="button">Street-Food</button>
@@ -78,7 +78,7 @@
 
     
     <div class= "authors">
-        <p>Valentin Gaudin</p><p>Matthieu Chabot</p><p>Jean-Christophe RIOTTE</p><p>Manuela Querier</p> 
+        <p>Valentin GAUDIN</p><p>Matthieu CHABOT</p><p>Jean-Christophe RIOTTE</p><p>Manuela QUERIER</p> 
     </div>
 </div>
 </div>
