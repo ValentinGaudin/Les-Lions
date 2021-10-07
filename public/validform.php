@@ -108,19 +108,22 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <?php include("header.php"); ?>
         
         <!-- Article dans l'index -->
-
-        <?php
-            if ($retour == "") {
-              echo "<h1> $firstNameErr <br> $lastNameErr <br> $userEmailErr <br> $sujetErr <br> $userPhoneNumberErr <br> $userMessageErr <br> $fileErr </h1>";  
-            } else {
-              echo "<h1> $retour </h1>"; 
-            }
-        ?>
-        
         <section class="lastArticle container" >
+          <div class="thanks">
+            <?php
+              if ($retour == "") {
+                echo "<h1> $firstNameErr <br> $lastNameErr <br> $userEmailErr <br> $sujetErr <br> $userPhoneNumberErr <br> $userMessageErr <br> $fileErr </h1>";  
+              } else {
+                echo "<h1> $retour </h1>"; 
+              }
+            ?>
+          </div>
+        
+          <div class="return" >
 
             <a class="returnnav" id="backindex" href="index.php">Retour à la page d'accueil</a>
 
+          </div>
         </section>
         <!-- Contiendras les informations de production et le chatbot!-->
 
