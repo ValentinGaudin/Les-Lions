@@ -78,8 +78,12 @@
 
     
     <div class= "authors">
-        <p>Valentin GAUDIN</p><p>Matthieu CHABOT</p><p>Jean-Christophe RIOTTE</p><p>Manuela QUERIER</p> 
+        <p>Valentin GAUDIN</p><p>Matthieu CHABOT</p><p>Jean-Christophe RIOTTE</p><p>Manuela QUERTIER</p> 
+
     </div>
+    <div class="droits">
+            <p>Tous droits réservés ©.</p>
+        </div>
 </div>
 </div>
 <script src="/script/footer.js"></script>
